@@ -21,7 +21,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Work+Sans:wght@400;500;600&family=Jost:wght@500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16.png">
@@ -35,15 +35,15 @@
   "name": "Services",
   "url": "https://www.interiormotivesswfl.com/services.html",
   "about": {
-    "@type": "HomeAndConstructionBusiness",
-    "name": "Interior Motives",
+    "@type": "ProfessionalService",
+    "name": "Interior Motives Design",
     "telephone": "+19414564136",
-    "email": "bbrunderman@comcast.net",
+    "email": "Info@InteriorMotives1.com",
     "url": "https://www.interiormotivesswfl.com/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "4288 Pinnacle St",
-      "addressLocality": "Punta Gorda",
+      "addressLocality": "Charlotte Harbor",
       "addressRegion": "FL",
       "postalCode": "33980",
       "addressCountry": "US"
@@ -67,8 +67,8 @@
 
 <header class="site-header">
   <div class="container">
-    <a class="logo" href="index.html">Interior Motives
-      <span>Southwest Florida</span>
+    <a class="logo" href="index.html" aria-label="Interior Motives Design — Home">
+      <img src="images/brand/logo-navy.png" alt="Interior Motives Design" width="316" height="190">
     </a>
 
     <nav class="main-nav" aria-label="Primary">
@@ -78,10 +78,11 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
         </button>
         <ul class="nav-menu-panel" id="primary-menu">
-          <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
-          <li><a href="services.html" class="is-active">Services</a></li>
+          <li><a href="services.html">Services</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="team.html">Meet the Team</a></li>
+          <li><a href="partners.html">Partners</a></li>
           <li><a href="locations.html">Service Area</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
@@ -96,12 +97,15 @@
 
 <main id="main">
 
-  <section class="page-hero texture-linen">
+  <section class="page-hero has-image">
     <div class="container">
+      <div>
       <p class="breadcrumbs"><a href="index.html">Home</a> &rsaquo; Services</p>
       <p class="eyebrow">Services</p>
       <h1>Design and Renovation, Under One Roof</h1>
       <p class="lede">Whether you need a single room reimagined or a whole home built from the ground up, our team carries the project from concept through construction.</p>
+    </div>
+      <div class="img-frame"><img src="images/portfolio/studio-material-selections.jpg" alt="Fabric, rug, and wallcovering selections laid out in the studio" loading="eager"></div>
     </div>
   </section>
 
@@ -138,15 +142,75 @@
 
         <div class="card service-card">
           <div class="icon-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
-          <h3>Custom Home Building</h3>
-          <p>Ground-up custom home construction delivered in partnership with Brunderman Building.</p>
-          <a class="card-link" href="services-custom-home-building.html">Learn More &rarr;</a>
+          <h3>New Construction Design</h3>
+          <p>Layouts, finishes, and furnishings for new builds &mdash; working alongside your builder from the first plan set.</p>
+          <a class="card-link" href="services-new-construction-design.html">Learn More &rarr;</a>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="section texture-plaster">
+  <section class="section band-warm">
+    <div class="container">
+      <div class="section-head center">
+        <p class="eyebrow">Design Details</p>
+        <h2>The Layers That Finish a Room</h2>
+        <p class="lede">Every full design includes these finishing layers &mdash; and we're happy to help with any one of them on its own.</p>
+      </div>
+      <div class="grid grid-3">
+        <div class="card service-card has-photo">
+          <div class="service-photo"><img src="images/portfolio/studio-wallcovering-samples.jpg" alt="Wallcovering and fabric sample cards" loading="lazy"></div>
+          <div class="service-body">
+            <h3>Wallpaper &amp; Wallcoverings</h3>
+            <p>Grasscloth, textured vinyl, and pattern chosen for the room and the Florida humidity.</p>
+            <a class="card-link" href="services-wallcoverings.html">Learn More &rarr;</a>
+          </div>
+        </div>
+        <div class="card service-card has-photo">
+          <div class="service-photo"><img src="images/portfolio/living-room-two-story.jpg" alt="Two-story living room with floor-to-ceiling sheer drapery" loading="lazy"></div>
+          <div class="service-body">
+            <h3>Window Treatments</h3>
+            <p>Custom drapery and shades that manage Florida sun while framing the view.</p>
+            <a class="card-link" href="services-window-treatments.html">Learn More &rarr;</a>
+          </div>
+        </div>
+        <div class="card service-card has-photo">
+          <div class="service-photo"><img src="images/portfolio/dining-round-oak.jpg" alt="Round oak dining table beneath a scalloped drum pendant" loading="lazy"></div>
+          <div class="service-body">
+            <h3>Furniture Selection</h3>
+            <p>Pieces scaled to your rooms, sourced through the trade, delivered and placed.</p>
+            <a class="card-link" href="services-furniture-selection.html">Learn More &rarr;</a>
+          </div>
+        </div>
+        <div class="card service-card has-photo">
+          <div class="service-photo"><img src="images/portfolio/dining-wine-wall.jpg" alt="Dining room with cascading linear pendant lights" loading="lazy"></div>
+          <div class="service-body">
+            <h3>Lighting Selection</h3>
+            <p>Chandeliers, pendants, and layered light planned alongside the furniture.</p>
+            <a class="card-link" href="services-lighting-selection.html">Learn More &rarr;</a>
+          </div>
+        </div>
+        <div class="card service-card has-photo">
+          <div class="service-photo"><img src="images/portfolio/studio-material-selections.jpg" alt="Area rug and fabric samples on the studio table" loading="lazy"></div>
+          <div class="service-body">
+            <h3>Rugs, Fabrics &amp; Upholstery</h3>
+            <p>Texture and performance fabrics that layer beautifully and hold up to coastal life.</p>
+            <a class="card-link" href="services-rugs-fabrics.html">Learn More &rarr;</a>
+          </div>
+        </div>
+        <div class="card service-card has-photo">
+          <div class="service-photo"><img src="images/portfolio/detail-agate-mirror.jpg" alt="Agate-framed mirror beside a marbled teal lamp" loading="lazy"></div>
+          <div class="service-body">
+            <h3>Art &amp; Accessories</h3>
+            <p>Art, mirrors, and final styling &mdash; the layer that makes a home personal.</p>
+            <a class="card-link" href="services-art-accessories.html">Learn More &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section band-stone">
     <div class="container">
       <div class="section-head center">
         <p class="eyebrow">Where We Work</p>
@@ -160,34 +224,27 @@
         <a class="btn" style="justify-content:center;" href="locations-port-charlotte.html">Port Charlotte</a>
         <a class="btn" style="justify-content:center;" href="locations-punta-gorda.html">Punta Gorda</a>
         <a class="btn" style="justify-content:center;" href="locations-cape-coral.html">Cape Coral</a>
+        <a class="btn" style="justify-content:center;" href="locations-englewood.html">Englewood</a>
+        <a class="btn" style="justify-content:center;" href="locations-boca-grande.html">Boca Grande</a>
+        <a class="btn" style="justify-content:center;" href="locations-nokomis.html">Nokomis</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="locations.html">View All Areas</a>
       </div>
     </div>
   </section>
 
-  <section class="section cta-band texture-plaster-dark" id="calendly">
+  <section class="section cta-band band-navy" id="cta">
     <div class="container">
       <div class="section-head center">
-        <p class="eyebrow" style="color:var(--color-peach);">Let's Talk About Your Space</p>
+        <p class="eyebrow">Let's Talk About Your Space</p>
         <h2>Ready to Start Your Project?</h2>
-        <p class="lede">Call us now, or pick a time that works for you and we'll call you &mdash; either way, the first conversation is free.</p>
+        <p class="lede">Call the studio, or send a quick note and we'll get back to you &mdash; either way, the first consultation is free.</p>
       </div>
       <div class="cta-pair">
         <a class="btn btn-primary" href="tel:+19414564136">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
           Call (941) 456-4136
         </a>
-        <a class="btn btn-ghost" href="#calendly-widget">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
-          Or Plan a Future Call
-        </a>
-      </div>
-
-      <div class="calendly-wrap" id="calendly-widget">
-        <!-- Calendly inline widget begin -->
-        <div class="calendly-inline-widget" data-url="https://calendly.com/boogmasterjones/30min?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-        <!-- Calendly inline widget end -->
+        <a class="btn btn-ghost btn-lg" href="contact.html#consultation">Request a Consultation</a>
       </div>
     </div>
   </section>
@@ -198,8 +255,9 @@
   <div class="container">
     <div class="footer-grid">
       <div>
-        <p class="footer-logo">Interior Motives</p>
+        <p class="footer-logo"><img src="images/brand/logo-white.png" alt="Interior Motives Design" width="316" height="190"></p>
         <p class="footer-tagline">Your vision, our expertise, your dream home. Interior design and renovation across Southwest Florida.</p>
+        <p class="footer-address">4288 Pinnacle St<br>Charlotte Harbor, FL 33980<br><a href="tel:+19414564136">(941) 456-4136</a><br><a href="mailto:Info@InteriorMotives1.com">Info@InteriorMotives1.com</a></p>
       </div>
       <div>
         <h4>Services</h4>
@@ -208,33 +266,47 @@
           <li><a href="services-space-planning.html">Space Planning</a></li>
           <li><a href="services-color-consultation.html">Color Consultation</a></li>
           <li><a href="services-kitchen-bath-design.html">Kitchen &amp; Bath Design</a></li>
-          <li><a href="services-custom-home-building.html">Custom Home Building</a></li>
+          <li><a href="services-new-construction-design.html">New Construction Design</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Design Details</h4>
+        <ul>
+          <li><a href="services-wallcoverings.html">Wallpaper &amp; Wallcoverings</a></li>
+          <li><a href="services-window-treatments.html">Window Treatments</a></li>
+          <li><a href="services-furniture-selection.html">Furniture Selection</a></li>
+          <li><a href="services-lighting-selection.html">Lighting Selection</a></li>
+          <li><a href="services-rugs-fabrics.html">Rugs, Fabrics &amp; Upholstery</a></li>
+          <li><a href="services-art-accessories.html">Art &amp; Accessories</a></li>
         </ul>
       </div>
       <div>
         <h4>Service Area</h4>
         <ul>
           <li><a href="locations-sarasota.html">Sarasota, FL</a></li>
+          <li><a href="locations-nokomis.html">Nokomis, FL</a></li>
           <li><a href="locations-venice.html">Venice, FL</a></li>
+          <li><a href="locations-englewood.html">Englewood, FL</a></li>
           <li><a href="locations-north-port.html">North Port, FL</a></li>
           <li><a href="locations-port-charlotte.html">Port Charlotte, FL</a></li>
           <li><a href="locations-punta-gorda.html">Punta Gorda, FL</a></li>
+          <li><a href="locations-boca-grande.html">Boca Grande, FL</a></li>
           <li><a href="locations-cape-coral.html">Cape Coral, FL</a></li>
         </ul>
       </div>
       <div>
-        <h4>Get in Touch</h4>
+        <h4>Company</h4>
         <ul>
-          <li><a href="tel:+19414564136">(941) 456-4136</a></li>
-          <li><a href="mailto:bbrunderman@comcast.net">bbrunderman@comcast.net</a></li>
           <li><a href="about.html">About Us</a></li>
+          <li><a href="team.html">Meet the Team</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="partners.html">Our Partners</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; 2026 Interior Motives. All rights reserved.</p>
+      <p>&copy; 2026 Interior Motives Design. All rights reserved.</p>
       <p>Serving Sarasota, Charlotte &amp; Lee Counties, FL</p>
     </div>
   </div>

@@ -159,6 +159,101 @@ put real thought into this rather than defaulting to a generic template look:
 - Verify every visual change in an actual browser preview — both mobile and desktop
   widths — before considering a UI change done. Don't rely on reading the code alone.
 
+## Confirmed facts (from client collateral, 2026-09-19)
+
+Pulled from the business card, brochure, and the studio's old Google Site saved in
+`images/` — these override the "unknown" notes above:
+
+- **Legal/brand name on the logo:** "Interior Motives Design" (monogram "iM" in a
+  square, letter-spaced serif caps). Logo files: `images/brand/logo-navy.png` and
+  `logo-white.png`, cropped from the client PNG.
+- **Brand palette:** deep navy (#13223f) + white; black line-art logo. Accent colors
+  pulled from the portfolio: brass, harbor teal, terracotta, sage (+ pale tints for
+  section bands). Look is intentionally "artsy, not corporate": rounded cards (18px),
+  pill buttons, soft layered shadows, generous spacing. Fonts kept from the prior
+  design at the client's request: Fraunces (incl. 700 for the hero H1) / Work Sans / Jost.
+- **Header:** logo · "Menu" dropdown (all nav links) · navy pill showing the full phone
+  number. On the homepage only (`body.home`), the header is hidden until the user scrolls
+  60px, then slides in (0.3s transform) — copied from clearvantwc.com's main.js.
+- **Photos of Holly & Lori:** in the joint showroom photo, **Holly is on the left (navy
+  shirt), Lori is on the right (tan cardigan)** — confirmed by the user 2026-09-19.
+  Individual crops are `images/team/holly.jpg` and `images/team/lori.jpg`.
+- **Calendly:** removed site-wide at the user's request (2026-09-19). CTAs now point to
+  the phone number or `contact.html#consultation`.
+- **Address:** 4288 Pinnacle St, Charlotte Harbor, FL 33980 (not Punta Gorda).
+- **Email:** Info@InteriorMotives1.com. **Phones:** Lori (941) 456-4136 (primary),
+  Holly (727) 638-2381. By appointment only.
+- **Offer:** "Free initial consultation — $250 value" (printed on the brochure).
+- **Team:** Holly (Tanner) & Lori (Brunderman) — designers & owners; Margaret —
+  designer / design coordinator. Bios on `team.html` are taken verbatim in substance
+  from the old Google Site's "Our Team" page. Lori's surname happens to be Brunderman;
+  the *company* "Brunderman Building" has been removed from the site entirely.
+- **Form handling:** consultation form mirrors clearvantwc.com — FormSubmit.co POST
+  with honeypot, `_template=table`, redirect to `thank-you.html`. It's progressive:
+  only name + phone/email show at first; each `.form-step` reveals as the previous one
+  is answered (logic in `js/main.js`). Only `name` is `required`, so a quick lead can
+  still submit from step 1.
+
+## To-do list (as of 2026-09-19)
+
+Things that still need client input or a follow-up pass. Don't invent any of these.
+
+- [ ] **Real reviews.** Homepage `#reviews` has three clearly-marked placeholder cards.
+      Get 3–6 real Google reviews (name + text) and swap them in; also add a
+      "Read all reviews on Google" link once the Google Business Profile URL is known.
+- [ ] **Team surnames / titles.** Cards use first names only. Confirm whether the client
+      wants "Holly Tanner" / "Lori Brunderman" shown, and Margaret's surname + exact
+      title ("Design Coordinator" per the old site).
+- [ ] **Form inbox.** Both forms currently POST to `formsubmit.co/gobiggify@gmail.com`
+      (same as Clearvant). Switch to the client's inbox when ready and complete the
+      one-time FormSubmit activation email. `_next` redirect uses the placeholder
+      domain — update when the real domain is known.
+- [ ] **Domain.** Canonicals/OG/sitemap still use `www.interiormotivesswfl.com`
+      (placeholder). Confirm the real domain (email suggests interiormotives1.com).
+      Then remove the `TEMP-NOINDEX` meta line from every page.
+- [ ] **Design Details pages scope.** Six informational SEO pages were added
+      (`services-wallcoverings`, `-window-treatments`, `-furniture-selection`,
+      `-lighting-selection`, `-rugs-fabrics`, `-art-accessories`). Copy says the studio
+      selects/specifies and *coordinates* installation with installers/electricians —
+      confirm that's accurate, and whether any should be dropped or added (e.g. flooring
+      & tile, cabinetry, outdoor/lanai design).
+- [ ] **Phone-or-email validation.** The form only requires a name; it doesn't block
+      submission when both phone and email are blank. Add a check if leads come in
+      unreachable.
+- [ ] **Headshot quality.** `holly.jpg` / `lori.jpg` are crops of a group photo and a
+      bit soft when enlarged — request proper individual headshots.
+- [ ] **Partners page.** `partners.html` is intentionally generic with 8 placeholder logo
+      tiles — client will supply partner names/logos/links. Old Google Site had an
+      "Our Vendors" page; ask if that list still applies.
+- [ ] **New Construction Design scope.** The old "Custom Home Building" page (which was
+      built around Brunderman Building) was rewritten as design-only work alongside
+      the client's builder. Confirm this matches what they actually offer.
+- [ ] **Trust stats.** "20+ years" and "500+ projects" and "Licensed" carried over from
+      the previous build — re-confirm with the client now that the team story
+      (studio opened 2023, partners' individual experience longer) is known.
+- [ ] **Photo quality.** Most portfolio JPEGs are 640px wide (phone exports). Request
+      full-resolution originals, especially the 2023 photo-shoot set used in the hero
+      and carousel. Confirm photo usage rights for client homes.
+- [ ] **Candid team photos.** The two solo candids in `images/team/`
+      (`designer-at-market.jpg`, `designer-showroom.jpg`) are uncaptioned on the team
+      page's "In the Field" gallery because it's unclear who's pictured — ask.
+- [ ] **Favicons.** `favicon.svg` was redrawn in navy; the PNG favicons and
+      `apple-touch-icon.png` are still the old teal house icon — regenerate.
+- [ ] **OG image.** Pages reference portfolio photos for `og:image`; consider a
+      dedicated 1200×630 branded share image.
+- [ ] **Repo hygiene.** `images/branding/`, `images/meet the team/`, `images/work
+      pictures/`, and the saved "Interior Motives - Google Sites" HTML dumps are raw
+      client uploads (some 8MB+). They're not referenced by the site — move them out of
+      the deploy folder or add to `.gitignore` before publishing to Netlify.
+- [ ] **New service-area pages (2026-09-19).** Added Englewood, Boca Grande, and Nokomis
+      — all inside the existing Charlotte/Sarasota/Lee footprint, not a wider market.
+      Confirm the client actually takes work in each (especially Boca Grande, which is
+      island-only access via the causeway). Their local copy references Manasota Key,
+      Lemon Bay, Dearborn Street, Gasparilla Island, Casey Key, and Dona/Roberts Bays.
+- [ ] **Location page copy** still says "design and renovate" per city — fine, but
+      each page could now feature a real local project photo if the client can say
+      which city each portfolio photo came from.
+
 ## Getting started — do this first
 
 1. Read this whole file.

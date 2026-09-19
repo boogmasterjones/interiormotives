@@ -9,7 +9,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Work+Sans:wght@400;500;600&family=Jost:wght@500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16.png">
@@ -21,8 +21,8 @@
 
 <header class="site-header">
   <div class="container">
-    <a class="logo" href="index.html">Interior Motives
-      <span>Southwest Florida</span>
+    <a class="logo" href="index.html" aria-label="Interior Motives Design — Home">
+      <img src="images/brand/logo-navy.png" alt="Interior Motives Design" width="316" height="190">
     </a>
 
     <nav class="main-nav" aria-label="Primary">
@@ -32,10 +32,11 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
         </button>
         <ul class="nav-menu-panel" id="primary-menu">
-          <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="services.html">Services</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="team.html">Meet the Team</a></li>
+          <li><a href="partners.html">Partners</a></li>
           <li><a href="locations.html">Service Area</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
@@ -49,15 +50,18 @@
 </header>
 
 <main id="main">
-  <section class="page-hero texture-linen">
-    <div class="container" style="text-align:center; max-width:600px;">
-      <p class="eyebrow">404</p>
-      <h1>We Couldn't Find That Page</h1>
-      <p class="lede" style="margin-inline:auto;">The page you're looking for may have moved or no longer exists. Try one of the links below, or head back to the homepage.</p>
-      <div class="cta-pair" style="justify-content:center; margin-top:1.5rem;">
-        <a class="btn btn-primary" href="index.html">Back to Home</a>
-        <a class="btn btn-secondary" href="contact.html">Contact Us</a>
+  <section class="page-hero has-image">
+    <div class="container">
+      <div>
+        <p class="eyebrow">404</p>
+        <h1>We Couldn't Find That Page</h1>
+        <p class="lede">The page you're looking for may have moved or no longer exists. Try one of the links below, or head back to the homepage.</p>
+        <div class="cta-pair">
+          <a class="btn btn-primary" href="index.html">Back to Home</a>
+          <a class="btn" href="contact.html">Contact Us</a>
+        </div>
       </div>
+      <div class="img-frame"><img src="images/portfolio/loft-slat-wall.jpg" alt="Bright loft with a walnut slat wall and floor-to-ceiling windows" loading="eager"></div>
     </div>
   </section>
 
@@ -81,8 +85,9 @@
   <div class="container">
     <div class="footer-grid">
       <div>
-        <p class="footer-logo">Interior Motives</p>
+        <p class="footer-logo"><img src="images/brand/logo-white.png" alt="Interior Motives Design" width="316" height="190"></p>
         <p class="footer-tagline">Your vision, our expertise, your dream home. Interior design and renovation across Southwest Florida.</p>
+        <p class="footer-address">4288 Pinnacle St<br>Charlotte Harbor, FL 33980<br><a href="tel:+19414564136">(941) 456-4136</a><br><a href="mailto:Info@InteriorMotives1.com">Info@InteriorMotives1.com</a></p>
       </div>
       <div>
         <h4>Services</h4>
@@ -91,33 +96,47 @@
           <li><a href="services-space-planning.html">Space Planning</a></li>
           <li><a href="services-color-consultation.html">Color Consultation</a></li>
           <li><a href="services-kitchen-bath-design.html">Kitchen &amp; Bath Design</a></li>
-          <li><a href="services-custom-home-building.html">Custom Home Building</a></li>
+          <li><a href="services-new-construction-design.html">New Construction Design</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Design Details</h4>
+        <ul>
+          <li><a href="services-wallcoverings.html">Wallpaper &amp; Wallcoverings</a></li>
+          <li><a href="services-window-treatments.html">Window Treatments</a></li>
+          <li><a href="services-furniture-selection.html">Furniture Selection</a></li>
+          <li><a href="services-lighting-selection.html">Lighting Selection</a></li>
+          <li><a href="services-rugs-fabrics.html">Rugs, Fabrics &amp; Upholstery</a></li>
+          <li><a href="services-art-accessories.html">Art &amp; Accessories</a></li>
         </ul>
       </div>
       <div>
         <h4>Service Area</h4>
         <ul>
           <li><a href="locations-sarasota.html">Sarasota, FL</a></li>
+          <li><a href="locations-nokomis.html">Nokomis, FL</a></li>
           <li><a href="locations-venice.html">Venice, FL</a></li>
+          <li><a href="locations-englewood.html">Englewood, FL</a></li>
           <li><a href="locations-north-port.html">North Port, FL</a></li>
           <li><a href="locations-port-charlotte.html">Port Charlotte, FL</a></li>
           <li><a href="locations-punta-gorda.html">Punta Gorda, FL</a></li>
+          <li><a href="locations-boca-grande.html">Boca Grande, FL</a></li>
           <li><a href="locations-cape-coral.html">Cape Coral, FL</a></li>
         </ul>
       </div>
       <div>
-        <h4>Get in Touch</h4>
+        <h4>Company</h4>
         <ul>
-          <li><a href="tel:+19414564136">(941) 456-4136</a></li>
-          <li><a href="mailto:bbrunderman@comcast.net">bbrunderman@comcast.net</a></li>
           <li><a href="about.html">About Us</a></li>
+          <li><a href="team.html">Meet the Team</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="partners.html">Our Partners</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; 2026 Interior Motives. All rights reserved.</p>
+      <p>&copy; 2026 Interior Motives Design. All rights reserved.</p>
       <p>Serving Sarasota, Charlotte &amp; Lee Counties, FL</p>
     </div>
   </div>
