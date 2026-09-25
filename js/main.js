@@ -1,19 +1,33 @@
 (function () {
   'use strict';
 
-  // Homepage: header slides in once the visitor scrolls past the top of the hero
+  // Homepage: the header slides in once the visitor scrolls past the top of the hero,
+  // or whenever the pointer moves into the strip of screen the header occupies.
   if (document.body.classList.contains('home')) {
     var header = document.querySelector('.site-header');
     if (header) {
       var revealThreshold = 60;
+      var hovering = false;
       var updateHeader = function () {
-        if (window.scrollY > revealThreshold) {
+        if (window.scrollY > revealThreshold || hovering) {
           header.classList.add('header-visible');
         } else {
           header.classList.remove('header-visible');
         }
       };
+      var hoverZone = function () { return Math.max(header.offsetHeight, 80); };
+
       window.addEventListener('scroll', updateHeader, { passive: true });
+      document.addEventListener('mousemove', function (event) {
+        var next = event.clientY <= hoverZone();
+        if (next !== hovering) { hovering = next; updateHeader(); }
+      }, { passive: true });
+      document.addEventListener('mouseleave', function () {
+        if (hovering) { hovering = false; updateHeader(); }
+      });
+      header.addEventListener('focusin', function () { hovering = true; updateHeader(); });
+      header.addEventListener('focusout', function () { hovering = false; updateHeader(); });
+
       updateHeader();
     }
   }
