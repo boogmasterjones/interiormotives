@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import { formatDate, getPosts, readingTime } from '../../lib/content';
+import { breadcrumbSchema } from '../../lib/schema';
+import { site } from '../../lib/site';
+
+const posts = await getPosts();
+const jsonLd = [breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Blog', path: '/blog' }])];
+const title = "Design Journal | Interior Motives Design";
+const description = "Ideas, advice and behind-the-scenes notes on designing Southwest Florida homes from the Interior Motives Design team in Charlotte Harbor.";
+---
+
+<Base title={title} description={description} jsonLd={jsonLd}>
+  <section class="page-hero">
+    <div class="container">
+      <div>
+        <p class="breadcrumbs"><a href="/">Home</a> &rsaquo; Journal</p>
+        <p class="eyebrow">Journal</p>
+        <h1>Design Ideas &amp; Advice</h1>
+        <p class="lede">Notes from our designers on color, layout, furnishings and making a Southwest Florida home feel finished.</p>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="card-grid">
+      {posts.length === 0 && <p>New articles are coming soon.</p>}
+      {posts.map((p) => (
+        <div class="card service-card">
+          {p.data.category && <p class="eyebrow">{p.data.category}</p>}
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <p style="font-size:0.85rem;opacity:0.8">{formatDate(p.data.date)} &middot; {readingTime(p.body ?? '')}</p>
+          <a class="card-link" href={`/blog/${p.id}`}>Read More &rarr;</a>
+        </div>
+      ))}
+      </div>
+    </div>
+  </section>
+
+</Base>

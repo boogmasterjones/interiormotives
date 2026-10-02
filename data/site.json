@@ -1,0 +1,73 @@
+{
+  "site": {
+    "url": "https://interiormotivesfl.com",
+    "locale": "en-US",
+    "calendlyUrl": "",
+    "formAction": "https://formsubmit.co/info@interiormotives1.com",
+    "defaultOgImage": "/images/brand/logo-navy.png",
+    "gaMeasurementId": "",
+    "googleSiteVerification": ""
+  },
+  "business": {
+    "name": "Interior Motives Design",
+    "kind": "operating",
+    "schemaType": "ProfessionalService",
+    "tagline": "Interior design and renovation design for Southwest Florida homes.",
+    "description": "Interior Motives Design is a Southwest Florida interior design studio in Charlotte Harbor offering whole-home design, kitchen and bath design, color consultation, custom fabrics, furniture, lighting and window treatments.",
+    "phone": "(941) 456-4136",
+    "email": "Info@InteriorMotives1.com",
+    "regionLabel": "Charlotte Harbor & Southwest Florida",
+    "alsoServing": [
+      "Charlotte Harbor"
+    ],
+    "address": {
+      "street": "4288 Pinnacle St",
+      "city": "Charlotte Harbor",
+      "region": "FL",
+      "postalCode": "33980",
+      "showOnSite": true
+    },
+    "hours": [
+      {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "17:00"
+      }
+    ],
+    "sameAs": [],
+    "googleMapsUrl": "",
+    "rating": null
+  },
+  "brand": {
+    "logoText": "Interior Motives",
+    "colors": {
+      "primary": "#1E2A44",
+      "primaryAlt": "#2A3A5C",
+      "action": "#B08D57",
+      "accent": "#D9C3A5",
+      "surface": "#FFFFFF",
+      "surfaceAlt": "#F6F3EE",
+      "ink": "#1E2A44",
+      "body": "#3D4A5C"
+    },
+    "fonts": {
+      "heading": "Fraunces",
+      "body": "Work Sans",
+      "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600&family=Jost:wght@400;500;600&display=swap"
+    }
+  },
+  "trustBadges": [
+    "20+ Years in Southwest Florida"
+  ],
+  "stats": [],
+  "cta": {
+    "label": "Request a Consultation",
+    "href": "/contact#consultation"
+  }
+}
