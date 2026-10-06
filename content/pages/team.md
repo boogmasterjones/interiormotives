@@ -84,7 +84,7 @@ path: "/team"
           <h2>Margaret</h2>
           <div class="rule"></div>
           <p class="lede">Margaret joined the team as Design Coordinator, bringing a strong passion for design and a unique background in residential drafting. She worked for two engineering firms, gaining hands-on experience drafting residential homes, aluminum structures, and septic design.</p>
-          <p class="lede">Wanting to take that experience a step further, she completed her Interior Design Studies through Florida Gulf Coast University and earned her certification in Residential Interior Design in November 2024.</p>
+          
         </div>
       </div>
     </div>
