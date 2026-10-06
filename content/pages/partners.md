@@ -24,9 +24,9 @@ path: "/partners"
       <div class="section-head center">
         <p class="eyebrow">Trade Partners &amp; Vendors</p>
         <h2>Our Partners</h2>
-        <p class="lede">We're currently updating this page with our partner network. Check back soon.</p>
+        
       </div>
-      <div class="partners-grid" aria-label="Partner logos coming soon">
+      <div class="partners-grid">
         <div class="partner-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 15l5-5 4 4 3-3 6 6"></path><circle cx="16" cy="8" r="1.5"></circle></svg>Partner Logo</div>
         <div class="partner-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 15l5-5 4 4 3-3 6 6"></path><circle cx="16" cy="8" r="1.5"></circle></svg>Partner Logo</div>
         <div class="partner-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 15l5-5 4 4 3-3 6 6"></path><circle cx="16" cy="8" r="1.5"></circle></svg>Partner Logo</div>
