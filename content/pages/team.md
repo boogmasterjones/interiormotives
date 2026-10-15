@@ -84,7 +84,6 @@ path: "/team"
           <h2>Margaret</h2>
           <div class="rule"></div>
           <p class="lede">Margaret joined the team as Design Coordinator, bringing a strong passion for design and a unique background in residential drafting. She worked for two engineering firms, gaining hands-on experience drafting residential homes, aluminum structures, and septic design.</p>
-          
         </div>
       </div>
     </div>
