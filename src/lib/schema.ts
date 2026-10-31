@@ -6,7 +6,7 @@ type Crumb = { name: string; path: string };
 
 const businessId = `${site.site.url}/#business`;
 // Cities always carry the state ("Punta Gorda, FL") so Google cannot match a same-named town elsewhere.
-const withState = (city: string) => (/,s*[A-Z]{2}$/.test(city) ? city : `${city}, ${site.business.address.region}`);
+const withState = (city: string) => (/, ?[A-Z]{2}$/.test(city) ? city : `${city}, ${site.business.address.region}`);
 const cityNode = (name: string) => ({ '@type': 'City', name: withState(name) });
 
 // "<" is escaped so content can never close the surrounding <script> tag.

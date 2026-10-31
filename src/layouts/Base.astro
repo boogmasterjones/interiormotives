@@ -15,7 +15,7 @@ const fonts = site.brand.fonts.googleFontsUrl;
 // One business node on every page (SITE_RULES 5.10); page-specific nodes (Service, FAQ, breadcrumbs) follow it.
 const [services, locations] = await Promise.all([getServices(), getLocations()]);
 const structured = [businessSchema(locations.map((l) => l.data.city), services.map((s) => s.data.name)), ...jsonLd];
-const mainPhone = site.business.phone.replace(/D/g, '').slice(-10);
+const mainPhone = site.business.phone.replace(/[^0-9]/g, '').slice(-10);
 ---
 
 <!doctype html>
