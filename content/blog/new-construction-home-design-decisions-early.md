@@ -1,5 +1,5 @@
 ---
-title: "New Construction Home Design in Southwest Florida: What to Decide Early"
+title: "New Construction Design in Southwest Florida: What to Decide Early"
 description: "Building a new home in Southwest Florida? Which design decisions to settle before framing, and how an interior designer works alongside your builder's selections."
 date: 2026-10-06
 category: "Guides"

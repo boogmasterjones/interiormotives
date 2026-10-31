@@ -206,3 +206,52 @@ bodyClass: "home"
       </div>
     </div>
   </section>
+  <section class="section band-white" id="reviews">
+    <div class="container">
+      <div class="section-head center">
+        <p class="eyebrow">Google Reviews</p>
+        <h2>What Our Clients Say</h2>
+        <p class="lede" style="margin-inline:auto;">Word for word, from our Google listing.</p>
+      </div>
+      <div class="grid grid-2 review-grid">
+        <figure class="review-card">
+          <div class="review-stars" role="img" aria-label="5 out of 5 stars">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+          </div>
+          <blockquote>Lori Brunderman helped us design a beautiful home in Punta Gorda.  Our house had the WOW factor times ten.  She has incredible talent, listens to what you are looking for and makes it happen.  Our house was modern but still had that homey feel.  Everyone who came to visit was blown away!</blockquote>
+          <figcaption class="review-meta"><strong>William B.</strong><span>Google review · October 2026</span></figcaption>
+        </figure>
+        <figure class="review-card">
+          <div class="review-stars" role="img" aria-label="5 out of 5 stars">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+          </div>
+          <blockquote>We hired Lori to help us with the past two homes we built. She is very knowledgeable, creative  and fun to work with. I took my ideas and inspirations to her and she helped facilitate my dreams into reality! She was awesome to work with!</blockquote>
+          <figcaption class="review-meta"><strong>Rosi B.</strong><span>Google review · October 2026</span></figcaption>
+        </figure>
+      </div>
+      <p class="lede" style="text-align:center;margin-top:1.5rem;"><a class="text-link" href="https://g.page/r/CfIl01umbGmYEBM" target="_blank" rel="noopener">Read our reviews on Google</a> &middot; Worked with us? <a class="text-link" href="https://g.page/r/CfIl01umbGmYEBM/review" target="_blank" rel="noopener">Leave a Google review</a></p>
+    </div>
+  </section>
+  <section class="section band-cream" id="local">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Interior Designers for Punta Gorda, Port Charlotte &amp; Charlotte Harbor</h2>
+        <p>We're Interior Motives Design, an owner-led interior design and renovation studio in Charlotte Harbor, on the north shore of the Peace River across from downtown Punta Gorda. We, Holly and Lori, have spent more than 20 years designing Southwest Florida homes, with 500+ projects completed, from a single room to the whole house. Because one team handles both design and renovation, the people who draw your plan are the same people who see it through to the final install.</p>
+        <p>Most of our work is close to home: <a href="/locations/punta-gorda">Punta Gorda</a> homes from the historic downtown to Punta Gorda Isles, canal-front houses across the river in <a href="/locations/port-charlotte">Port Charlotte</a>, and newer builds in <a href="/locations/north-port">North Port</a>. We also design homes in <a href="/locations/englewood">Englewood</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/venice">Venice</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
+        <h3>How a project starts</h3>
+        <p>Every project begins with an in-home consultation, and the initial consultation is free, a $250 value. From there we plan the layout, the color and the finishes, and present your selections as real samples laid out in our studio, not just mood boards. We have access to to-the-trade fabric and furniture lines sold only through designers, and we handle furniture ordering, receiving, delivery and placement. Start with <a href="/services/interior-design">full interior design</a>, <a href="/services/kitchen-bath-design">kitchen and bath design</a>, <a href="/services/new-construction-design">new construction design</a> or a <a href="/services/color-consultation">color consultation</a>, or see finished rooms in the <a href="/portfolio">portfolio</a>.</p>
+      </div>
+      <div class="section-cta">
+        <a class="btn btn-primary" href="tel:+19414564136">Call (941) 456-4136</a>
+        <a class="btn" href="#consultation">Book a Design Consultation</a>
+      </div>
+    </div>
+  </section>

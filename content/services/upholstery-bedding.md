@@ -10,6 +10,7 @@ faqs:
     answer: "It depends on the frame. If the piece is solidly built and the proportions work for the room, reupholstery usually buys more quality for the money than a comparable new piece."
   - question: "Do you make custom headboards?"
     answer: "Yes. Headboards are built to your bed size, wall height, and fabric choice, so the scale is right for the room."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -95,6 +96,26 @@ faqs:
         <a class="btn" href="/locations/punta-gorda">Punta Gorda</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Upholstery &amp; Bedding for Punta Gorda Homes</h2>
+        <p>Plenty of Punta Gorda and Port Charlotte homes have a sofa, a chair or a set of dining chairs that is too good, or too loved, to replace. New upholstery in the right fabric lets those pieces belong in a redesigned room. Bedrooms are the other half of this work: a custom headboard and layered bedding are often what finally make a primary suite or a guest room for visiting family feel finished.</p>
+        <p>We choose the fabric, coordinate the work, and make sure the finished piece fits the rest of the design.</p>
+        <h3>Upholstery and bedding services</h3>
+        <ul>
+          <li>Reupholstery of sofas, chairs and dining seats</li>
+          <li>Custom headboards</li>
+          <li>Benches and ottomans</li>
+          <li>Layered bedding, coverlets and shams</li>
+          <li>Decorative pillows</li>
+          <li><a href="/services/custom-fabrics">Fabric selection</a> from to-the-trade lines</li>
+        </ul>
+        <h3>Where we work</h3>
+        <p>We take on upholstery and bedding for homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor and <a href="/locations/north-port">North Port</a>, and across Charlotte, Sarasota and Lee Counties.</p>
       </div>
     </div>
   </section>

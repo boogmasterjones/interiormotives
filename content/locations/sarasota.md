@@ -7,6 +7,7 @@ summary: "From historic bungalows near downtown to condos overlooking Sarasota B
 order: 7
 city: "Sarasota"
 region: "FL"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -61,6 +62,25 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Interior Designer Near You in Sarasota</h2>
+        <p>Sarasota homes cover a wide range, from downtown condos overlooking the bay to historic bungalows and Siesta Key beach houses, and the brief changes with each one. Condos usually need furniture scaled to the space and a palette that makes the most of the view; older homes need an update that keeps their character.</p>
+        <p>Our studio is in Charlotte Harbor, south along US 41, and we design and renovate homes across Sarasota County. We, Holly and Lori, lead every project, with more than 20 years designing Southwest Florida homes and 500+ projects completed, and the initial consultation is free, a $250 value.</p>
+        <h3>Design services in Sarasota</h3>
+        <ul>
+          <li><a href="/services/interior-design">Interior design</a> for condos and homes</li>
+          <li><a href="/services/space-planning">Space planning</a></li>
+          <li><a href="/services/kitchen-bath-design">Kitchen and bath design and renovation</a></li>
+          <li><a href="/services/wallcoverings">Wallpaper and wall textures</a></li>
+          <li><a href="/services/furniture-selection">Furniture ordering, delivery and placement</a></li>
+        </ul>
+        <h3>Nearby areas</h3>
+        <p>South of Sarasota we also design homes in <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/north-port">North Port</a>.</p>
       </div>
     </div>
   </section>

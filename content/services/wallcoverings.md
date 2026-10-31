@@ -10,6 +10,7 @@ faqs:
     answer: "Yes, with the right material. We typically steer bathrooms toward vinyl or commercial-grade wallcoverings that tolerate moisture, and pair them with good ventilation."
   - question: "Do you install the wallpaper yourselves?"
     answer: "We handle selection, ordering, and scheduling, and coordinate installation with experienced wallcovering installers so the seams and pattern match are done right."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -95,6 +96,26 @@ faqs:
         <a class="btn" href="/locations/englewood">Englewood</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Wallpaper &amp; Grasscloth in Punta Gorda &amp; Port Charlotte</h2>
+        <p>Our wallcovering work is for homes in Charlotte, Sarasota and Lee Counties, where we can sample in person, check the light in the room and coordinate an experienced installer. In Punta Gorda and Port Charlotte that often means a grasscloth wall behind the bed, a bold paper in the powder room, or a textured vinyl that can handle a humid bathroom.</p>
+        <p>Every wallcovering is chosen with the rest of the room: the color palette, the fabrics and the lighting. You see the real samples in our studio before anything is ordered.</p>
+        <h3>Wallcoverings we design with</h3>
+        <ul>
+          <li>Grasscloth wallpaper</li>
+          <li>Silk and linen textured wallcoverings</li>
+          <li>Vinyl wallcoverings for baths and busy halls</li>
+          <li>Metallic and mica papers</li>
+          <li>Patterned and botanical wallpapers</li>
+          <li>Ceiling and niche papers</li>
+        </ul>
+        <h3>Where we work</h3>
+        <p>We design wallpaper and wall textures for homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>

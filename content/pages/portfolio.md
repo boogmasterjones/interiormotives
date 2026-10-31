@@ -12,7 +12,7 @@ path: "/portfolio"
         <p class="breadcrumbs"><a href="/">Home</a> › Portfolio</p>
         <p class="eyebrow">Portfolio</p>
         <h1>Interior Design Across Punta Gorda &amp; Southwest Florida</h1>
-        <p class="lede">A selection of finished rooms and before-and-after renovations from our work across Charlotte, Sarasota, and Lee Counties. Click any photo to enlarge.</p>
+        <p class="lede">A selection of finished rooms and before-and-after renovations from our interior design work in Punta Gorda and across Southwest Florida: Charlotte, Sarasota, and Lee Counties. Click any photo to enlarge.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact">Request a Consultation</a>
           <a class="btn" href="#before-after">See Before &amp; After</a>

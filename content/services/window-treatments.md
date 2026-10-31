@@ -10,6 +10,7 @@ faqs:
     answer: "Yes. Motorized shades are often the best answer for tall, two-story, or hard-to-reach windows, and we can help choose systems that fit your home."
   - question: "Will the fabric fade in the Florida sun?"
     answer: "Some fabrics fade faster than others. We select sun-resistant materials and linings for high-exposure windows and can pair drapery with solar shades for extra protection."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -95,6 +96,26 @@ faqs:
         <a class="btn" href="/locations/englewood">Englewood</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Window Treatments for Punta Gorda &amp; Port Charlotte Homes</h2>
+        <p>Homes around Charlotte Harbor are built for the view, which usually means big sliders, transoms and west-facing glass. That brings glare on the TV, heat in the afternoon, and sun that fades floors and fabric. On canal lots, it can also mean a neighbor's lanai looking straight in. The right window treatment manages all of it while still framing the water.</p>
+        <p>We design and specify drapery and shades for each window, choose the fabric, and coordinate measuring, fabrication and scheduling so the finished treatments match the rest of the room.</p>
+        <h3>Window treatment design services</h3>
+        <ul>
+          <li>Custom drapery and sheers</li>
+          <li>Roman shades</li>
+          <li>Solar and roller shades for glare and heat</li>
+          <li>Motorized shades for tall or hard-to-reach windows</li>
+          <li>Layered treatments for privacy and light control</li>
+          <li><a href="/services/custom-fabrics">Drapery fabric</a> selection</li>
+        </ul>
+        <h3>Where we work</h3>
+        <p>We design window treatments for homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>

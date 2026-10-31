@@ -10,6 +10,7 @@ faqs:
     answer: "Yes. We love designing around meaningful pieces and will help decide where they show best."
   - question: "How high should art be hung?"
     answer: "A common guideline is to center artwork around eye level, roughly 57-60 inches from the floor, adjusted for furniture below it and ceiling height."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -95,6 +96,26 @@ faqs:
         <a class="btn" href="/locations/englewood">Englewood</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Art &amp; Styling for Punta Gorda Homes</h2>
+        <p>Art, mirrors and accessories are the last layer of a room, and the one that makes it feel like yours. We choose pieces at the right scale for tall walls and long great rooms, place them, and finish with a styling pass on shelves, tables and beds.</p>
+        <p>For seasonal owners in Punta Gorda, Port Charlotte and Boca Grande, that final layer is often what turns a furnished house into a home you can walk into and enjoy on the first day of the season.</p>
+        <h3>Art and styling services</h3>
+        <ul>
+          <li>Art selection and placement</li>
+          <li>Mirrors</li>
+          <li>Shelf and bookcase styling</li>
+          <li>Tabletop and decorative accessories</li>
+          <li>Final styling of finished rooms</li>
+          <li>Refreshing a room with what you already own</li>
+        </ul>
+        <h3>Where we work</h3>
+        <p>We style homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>

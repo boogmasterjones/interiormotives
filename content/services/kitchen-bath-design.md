@@ -5,6 +5,14 @@ name: "Kitchen & Bath Design"
 heading: "Kitchen & Bath Design in Punta Gorda & Port Charlotte"
 summary: "Layout, cabinetry, and finish planning for the two rooms that matter most to daily life and resale value — done right the first time."
 order: 4
+faqs:
+  - question: "Do you handle the renovation, or only the design?"
+    answer: "Both. One team designs your kitchen or bath and handles the renovation, from the first layout to the final install."
+  - question: "Can you help choose cabinets, countertops and tile?"
+    answer: "Yes. We plan the cabinetry layout and select the finishes, countertops, tile and fixtures, and you see the real samples laid out in our studio before anything is ordered."
+  - question: "Do you design bathrooms as well as kitchens?"
+    answer: "Yes: primary baths, guest baths and powder rooms, including walk-in showers and vanities."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -96,6 +104,41 @@ order: 4
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Kitchen &amp; Bath Design in Punta Gorda &amp; Port Charlotte</h2>
+        <p>Many Port Charlotte homes still have the closed kitchen and small baths they were built with, and opening up the kitchen to the living area is one of the most common requests we hear. In Punta Gorda Isles and newer communities the kitchen usually already faces the great room and the lanai, so the work is about the island, storage, lighting and finishes that hold up to daily life and humidity.</p>
+        <p>Bathrooms here work hard too: walk-in showers, surfaces that cope with moisture, and good light for getting ready. Because one team handles design and renovation, the layout, cabinetry and finish plan go straight into the build, with no hand-off between a designer and a separate firm.</p>
+        <h2>Kitchen &amp; Bath Design Questions</h2>
+        <div class="faq">
+          <details>
+            <summary>Do you handle the renovation, or only the design?</summary>
+            <p>Both. One team designs your kitchen or bath and handles the renovation, from the first layout to the final install.</p>
+          </details>
+          <details>
+            <summary>Can you help choose cabinets, countertops and tile?</summary>
+            <p>Yes. We plan the cabinetry layout and select the finishes, countertops, tile and fixtures, and you see the real samples laid out in our studio before anything is ordered.</p>
+          </details>
+          <details>
+            <summary>Do you design bathrooms as well as kitchens?</summary>
+            <p>Yes: primary baths, guest baths and powder rooms, including walk-in showers and vanities.</p>
+          </details>
+        </div>
+        <h3>Kitchen and bath services</h3>
+        <ul>
+          <li>Kitchen remodel design and layout</li>
+          <li>Bathroom and primary bath remodel design</li>
+          <li>Walk-in shower and vanity planning</li>
+          <li>Cabinetry layout, door styles and finishes</li>
+          <li>Countertop, tile and backsplash selection</li>
+          <li>Lighting and plumbing fixture selection</li>
+        </ul>
+        <h3>Where we design kitchens and baths</h3>
+        <p>We design and renovate kitchens and bathrooms in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor and <a href="/locations/north-port">North Port</a>, and in homes across Charlotte, Sarasota and Lee Counties.</p>
       </div>
     </div>
   </section>

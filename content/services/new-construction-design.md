@@ -5,6 +5,7 @@ name: "New Construction Design"
 heading: "New Construction Interior Design in Southwest Florida"
 summary: "Interior design for homes that haven't been built yet. We work alongside your builder on layouts, finishes, lighting, and furnishings so the design decisions are made early — before they become…"
 order: 5
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -80,6 +81,26 @@ order: 5
         <a class="btn" href="/locations/englewood">Englewood</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>New Construction Design for Punta Gorda, North Port &amp; Southwest Florida</h2>
+        <p>New homes keep going up around Charlotte Harbor, from the Burnt Store area south of Punta Gorda to the newer neighborhoods of <a href="/locations/north-port">North Port</a> and <a href="/locations/port-charlotte">Port Charlotte</a>. Builders usually present selections one category at a time, and it is easy to lock in flooring, cabinets and lighting that each look fine but do not work together. Bringing in an interior designer early keeps those decisions connected.</p>
+        <p>We work alongside your builder on layouts, finishes, lighting and furnishings, and when construction wraps up, we handle furniture ordering, receiving, delivery and placement so the house is ready to live in. Our guide to <a href="/blog/new-construction-home-design-decisions-early">what to decide early in a new build</a> walks through the order of decisions.</p>
+        <h3>New construction design services</h3>
+        <ul>
+          <li>Builder selection appointments: flooring, cabinets, counters and tile</li>
+          <li>Lighting and outlet placement planning before drywall</li>
+          <li>A whole-home color and finish palette</li>
+          <li>Window treatment planning for new windows and sliders</li>
+          <li>Furniture plans, ordering and placement for move-in</li>
+          <li>Seasonal and second-home setups</li>
+        </ul>
+        <h3>Where we design new builds</h3>
+        <p>We design new-construction homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/north-port">North Port</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/englewood">Englewood</a> and <a href="/locations/venice">Venice and Nokomis</a>, and across Charlotte, Sarasota and Lee Counties.</p>
       </div>
     </div>
   </section>

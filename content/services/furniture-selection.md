@@ -12,6 +12,7 @@ faqs:
     answer: "Yes. We coordinate ordering, receiving, and delivery, and place everything in the room so it's ready to live in."
   - question: "Is outdoor furniture really different?"
     answer: "Yes - frames, hardware, and fabrics all have to tolerate salt air and moisture. Indoor pieces moved to a lanai tend to fail quickly here."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -103,6 +104,26 @@ faqs:
         <a class="btn" href="/locations/punta-gorda">Punta Gorda</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Furniture for Punta Gorda &amp; Port Charlotte Homes</h2>
+        <p>Great rooms with tall ceilings swallow furniture that looked big in the store, and lanai furniture has to stand up to sun, salt air and the occasional storm. We scale each piece to your room and choose materials for where it will live, indoors or out.</p>
+        <p>We have access to to-the-trade furniture lines sold only through designers, and we handle the ordering, receiving, delivery and placement. For seasonal owners that means a home can be furnished before you arrive; see our guide to <a href="/blog/furnish-florida-condo-before-season">furnishing a Florida condo before season</a>.</p>
+        <h3>Furniture services</h3>
+        <ul>
+          <li>Living room and great room furniture</li>
+          <li>Dining tables and chairs</li>
+          <li>Bedroom furniture</li>
+          <li>Lanai and outdoor furniture</li>
+          <li>Home office furniture</li>
+          <li>Ordering, receiving, delivery and placement</li>
+        </ul>
+        <h3>Where we deliver and place furniture</h3>
+        <p>We furnish homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>

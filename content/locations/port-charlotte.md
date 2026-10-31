@@ -7,6 +7,14 @@ summary: "Port Charlotte was laid out in the 1950s around an extensive canal sys
 order: 2
 city: "Port Charlotte"
 region: "FL"
+faqs:
+  - question: "Can you help open up an older Port Charlotte floor plan?"
+    answer: "Yes. One team handles design and renovation, so we can plan a more open layout, a new kitchen or an updated bath and see it through to the final install."
+  - question: "Do you work on canal-front homes in Port Charlotte?"
+    answer: "Yes. We design canal-front homes across Port Charlotte, with layouts, window treatments and fabrics chosen for the view, the sun and the humidity."
+  - question: "How far is your studio from Port Charlotte?"
+    answer: "Our studio is in Charlotte Harbor, a few minutes from most of Port Charlotte. Studio visits are by appointment, and the first consultation happens in your home."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -61,6 +69,48 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Port Charlotte Homes We Design For</h2>
+        <p>Port Charlotte grew from the late 1950s as a planned community, laid out around long canals and streets of single-story ranch homes, and it is now home to more than 50,000 people. Many of those houses still have the closed kitchen, small baths and separate rooms they were built with, which is why space planning and kitchen and bath renovation are such common requests here.</p>
+        <p>Canal-front homes add the same questions we see across Charlotte Harbor: how to face the furniture toward the water, how to control glare through big sliders, and which fabrics, rugs and finishes stand up to sun and humidity. Newer homes and condos in Port Charlotte bring the opposite brief: a blank, open floor plan that needs warmth, color and a layout that works.</p>
+        <h2>Just Across the River from Our Studio</h2>
+        <p>Our studio is in Charlotte Harbor, a few minutes from most of Port Charlotte. That makes it easy to meet in your home for the consultation, come back to measure, and visit the studio to see your selections laid out as real samples.</p>
+        <blockquote><p>We hired Lori to help us with the past two homes we built. She is very knowledgeable, creative  and fun to work with. I took my ideas and inspirations to her and she helped facilitate my dreams into reality! She was awesome to work with!</p></blockquote>
+        <p><strong>Rosi B.</strong>, Google review, October 2026</p>
+        <h2>Port Charlotte Interior Design Questions</h2>
+        <div class="faq">
+          <details>
+            <summary>Can you help open up an older Port Charlotte floor plan?</summary>
+            <p>Yes. One team handles design and renovation, so we can plan a more open layout, a new kitchen or an updated bath and see it through to the final install.</p>
+          </details>
+          <details>
+            <summary>Do you work on canal-front homes in Port Charlotte?</summary>
+            <p>Yes. We design canal-front homes across Port Charlotte, with layouts, window treatments and fabrics chosen for the view, the sun and the humidity.</p>
+          </details>
+          <details>
+            <summary>How far is your studio from Port Charlotte?</summary>
+            <p>Our studio is in Charlotte Harbor, a few minutes from most of Port Charlotte. Studio visits are by appointment, and the first consultation happens in your home.</p>
+          </details>
+        </div>
+        <h2>Interior Designer Near You in Port Charlotte</h2>
+        <p>If you are searching for an interior designer in Port Charlotte, we are an owner-led studio with more than 20 years in Southwest Florida and 500+ projects completed. We, Holly and Lori, lead every project, and one team handles design and renovation from the first layout to the final install.</p>
+        <p>The initial consultation is free, a $250 value, and we handle furniture ordering, receiving, delivery and placement, which helps if you split the year between Port Charlotte and somewhere else.</p>
+        <h3>Design services in Port Charlotte</h3>
+        <ul>
+          <li><a href="/services/interior-design">Interior design</a> for whole homes and single rooms</li>
+          <li><a href="/services/space-planning">Space planning</a> for ranch-style layouts</li>
+          <li><a href="/services/kitchen-bath-design">Kitchen and bath design and renovation</a></li>
+          <li><a href="/services/color-consultation">Color consultation</a></li>
+          <li><a href="/services/window-treatments">Window treatments</a> and <a href="/services/custom-fabrics">custom fabrics</a></li>
+          <li><a href="/services/furniture-selection">Furniture</a>, <a href="/services/rugs-fabrics">rugs</a> and <a href="/services/art-accessories">styling</a></li>
+        </ul>
+        <h3>Nearby areas</h3>
+        <p>We also design homes in neighboring <a href="/locations/punta-gorda">Punta Gorda</a> and Charlotte Harbor, and north in <a href="/locations/north-port">North Port</a>.</p>
       </div>
     </div>
   </section>

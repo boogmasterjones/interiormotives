@@ -5,6 +5,18 @@ name: "Interior Design"
 heading: "Interior Design in Punta Gorda & Port Charlotte"
 summary: "Full-room and full-house design that turns your Southwest Florida home into a space that looks intentional, feels comfortable, and works for the way you actually live."
 order: 1
+faqs:
+  - question: "Is the first consultation really free?"
+    answer: "Yes. The initial consultation is complimentary, a $250 value. It is the easiest way to find out whether we are the right fit for your home before you commit to anything."
+  - question: "Do you only design, or do you renovate as well?"
+    answer: "Both. One team handles design and renovation, from the first layout to the final install, so your plan never has to be handed from a designer to a separate firm."
+  - question: "Where is your studio?"
+    answer: "Our studio is in Charlotte Harbor, just across the Peace River from downtown Punta Gorda. Studio visits are by appointment, and every project starts with a consultation in your home."
+  - question: "Which areas do you serve?"
+    answer: "Charlotte, Sarasota and Lee Counties. Most of our work is in Punta Gorda, Port Charlotte, Charlotte Harbor and North Port, and we also design homes in Englewood, Boca Grande, Venice, Nokomis, Sarasota and Cape Coral."
+  - question: "Can you work with furniture we already own?"
+    answer: "Yes. We plan around the pieces worth keeping, and our upholstery service can give a favorite sofa or chair new fabric so it belongs in the new room."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -104,6 +116,64 @@ order: 1
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Interior Design for Punta Gorda, Port Charlotte &amp; Charlotte Harbor Homes</h2>
+        <p>Our interior design studio is in Charlotte Harbor, on the north shore of the Peace River across from downtown Punta Gorda, so most of our clients live a short drive away in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor and <a href="/locations/north-port">North Port</a>. We are Holly and Lori, and we have designed Southwest Florida homes for more than 20 years, with 500+ projects completed. We still lead every project ourselves.</p>
+        <p>Designing a home here is different from designing one up north. Afternoon sun pours through big sliders and fades fabrics and rugs; humidity and salt air near the harbor change how wood, metal and natural fibers age; and most homes have tile floors and an open great room that runs straight out to the lanai or the pool. Good interior design in Punta Gorda and Port Charlotte plans for all of that, so the room still looks right in August and in ten years.</p>
+        <p>Many of our clients also own a seasonal home or are building a new one. Because we handle furniture ordering, receiving, delivery and placement, a home can be furnished and finished before you arrive for the season, and new builds can be planned with the builder from the first selections. Read our guides to <a href="/blog/furnish-florida-condo-before-season">furnishing a Florida condo before season</a> and <a href="/blog/new-construction-home-design-decisions-early">what to decide early in a new build</a>.</p>
+        <h2>Why Homeowners Choose Interior Motives Design</h2>
+        <ul>
+          <li>An owner-led studio: the two of us, Holly and Lori, design your home ourselves</li>
+          <li>20+ years designing Southwest Florida homes and 500+ projects completed</li>
+          <li>One team for design and renovation, from first layout to final install</li>
+          <li>Every project starts with an in-home consultation, and the initial consultation is free, a $250 value</li>
+          <li>Selections presented as real samples laid out in our studio, not just mood boards</li>
+          <li>Access to to-the-trade fabric and furniture lines sold only through designers</li>
+          <li>Furniture ordering, receiving, delivery and placement handled for you</li>
+        </ul>
+        <p>Want to see the work first? Browse the <a href="/portfolio">portfolio</a>, read what <a href="/#reviews">our clients say on Google</a>, or <a href="/team">meet the team</a>.</p>
+        <h2>Frequently Asked Questions</h2>
+        <div class="faq">
+          <details>
+            <summary>Is the first consultation really free?</summary>
+            <p>Yes. The initial consultation is complimentary, a $250 value. It is the easiest way to find out whether we are the right fit for your home before you commit to anything.</p>
+          </details>
+          <details>
+            <summary>Do you only design, or do you renovate as well?</summary>
+            <p>Both. One team handles design and renovation, from the first layout to the final install, so your plan never has to be handed from a designer to a separate firm.</p>
+          </details>
+          <details>
+            <summary>Where is your studio?</summary>
+            <p>Our studio is in Charlotte Harbor, just across the Peace River from downtown Punta Gorda. Studio visits are by appointment, and every project starts with a consultation in your home.</p>
+          </details>
+          <details>
+            <summary>Which areas do you serve?</summary>
+            <p>Charlotte, Sarasota and Lee Counties. Most of our work is in Punta Gorda, Port Charlotte, Charlotte Harbor and North Port, and we also design homes in Englewood, Boca Grande, Venice, Nokomis, Sarasota and Cape Coral.</p>
+          </details>
+          <details>
+            <summary>Can you work with furniture we already own?</summary>
+            <p>Yes. We plan around the pieces worth keeping, and our upholstery service can give a favorite sofa or chair new fabric so it belongs in the new room.</p>
+          </details>
+        </div>
+        <h2>Looking for an Interior Designer Near You?</h2>
+        <p>If you are searching for an interior designer near Punta Gorda, Port Charlotte or Charlotte Harbor, we are local, and we design whole homes as well as single rooms. A full-home project might cover the layout, color palette, finishes, furniture, lighting, window treatments, rugs and art; a smaller one might be a living room refresh or a primary suite that finally feels finished.</p>
+        <p>Either way, the work starts the same way: a conversation in your home about how you live, what is not working, and the style you are drawn to. From there we put together layouts, palettes and selections for your review, refine them with you, and then source, coordinate and, where the design calls for it, renovate to make the plan real.</p>
+        <h3>Interior design services we offer</h3>
+        <ul>
+          <li>Whole-home interior design and single-room redesigns</li>
+          <li><a href="/services/space-planning">Space planning and furniture layouts</a></li>
+          <li><a href="/services/color-consultation">Color and finish selection</a></li>
+          <li><a href="/services/kitchen-bath-design">Kitchen and bath design</a> and <a href="/services/new-construction-design">new construction design</a></li>
+          <li><a href="/services/custom-fabrics">Custom fabrics</a>, <a href="/services/window-treatments">drapery</a> and <a href="/services/upholstery-bedding">upholstery</a></li>
+          <li><a href="/services/lighting-selection">Lighting</a>, <a href="/services/rugs-fabrics">rugs</a>, <a href="/services/wallcoverings">wallpaper</a> and <a href="/services/art-accessories">art and styling</a></li>
+        </ul>
+        <h3>Where we design homes</h3>
+        <p>We work across Charlotte, Sarasota and Lee Counties: <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/venice">Venice and Nokomis</a>, <a href="/locations/sarasota">Sarasota</a> and Cape Coral.</p>
       </div>
     </div>
   </section>

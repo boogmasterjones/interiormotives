@@ -7,6 +7,7 @@ summary: "Venice was master-planned in the 1920s with a distinct Northern Italia
 order: 6
 city: "Venice"
 region: "FL"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -61,6 +62,29 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Venice Island, Newer Venice &amp; Nokomis</h2>
+        <p>Venice was planned in the 1920s by John Nolen, and Venice Island still carries that Mediterranean and Northern Italian character. Interior work on the island usually means designing with the architecture: plaster, arches and tile that deserve furnishings and colors that respect them. East of the island, newer neighborhoods lean contemporary coastal, with open plans and lanais that need a different approach.</p>
+        <p>Just north, Nokomis pairs quiet, established neighborhoods along Dona and Roberts Bays with some of the area's most striking waterfront homes out on Casey Key. Homes range from mid-century ranches ready for an update to newer builds with walls of glass facing the water, so the brief changes from house to house: opening up a closed floor plan in one, choosing finishes and furnishings that do not compete with the view in the next.</p>
+        <h2>An Interior Design Studio for Venice &amp; Nokomis Homes</h2>
+        <p>Our interior design studio is in Charlotte Harbor, south of Venice along US 41, and we design and renovate homes across Sarasota County. We, Holly and Lori, lead every project, with more than 20 years designing Southwest Florida homes and 500+ projects completed.</p>
+        <p>The initial consultation is free, a $250 value, and it takes place in your home. You see your selections as real samples laid out in our studio, and we handle furniture ordering, receiving, delivery and placement, which matters for the many Venice and Nokomis owners who are here for the season.</p>
+        <h3>Design services in Venice and Nokomis</h3>
+        <ul>
+          <li><a href="/services/interior-design">Interior design</a> for historic and newer homes</li>
+          <li><a href="/services/kitchen-bath-design">Kitchen and bath design and renovation</a></li>
+          <li><a href="/services/color-consultation">Color consultation</a> for Florida light</li>
+          <li><a href="/services/window-treatments">Window treatments</a> for waterfront glass</li>
+          <li><a href="/services/furniture-selection">Indoor and lanai furniture</a></li>
+          <li><a href="/services/art-accessories">Art and final styling</a></li>
+        </ul>
+        <h3>Nearby areas</h3>
+        <p>We also design homes north in <a href="/locations/sarasota">Sarasota</a> and south in <a href="/locations/englewood">Englewood</a> and <a href="/locations/north-port">North Port</a>.</p>
       </div>
     </div>
   </section>

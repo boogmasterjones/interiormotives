@@ -4,6 +4,15 @@ description: "Book a free initial consultation ($250 value) with Interior Motive
 heading: "Contact Our Punta Gorda Interior Design Studio"
 subheading: "Send the form, call, or email — the initial consultation is complimentary, a $250 value. We meet by appointment at your home or at the studio in Charlotte Harbor."
 path: "/contact"
+faqs:
+  - question: "What happens after I send the form?"
+    answer: "We get in touch to talk through your project and set up your initial consultation, which is free (a $250 value). Every project starts with a consultation in your home."
+  - question: "Can I visit the studio?"
+    answer: "Yes, by appointment. Our studio is in Charlotte Harbor, just across the Peace River from downtown Punta Gorda, and it is where we lay out your selections as real samples."
+  - question: "Do you work outside Punta Gorda?"
+    answer: "Yes. We design and renovate homes across Charlotte, Sarasota and Lee Counties, including Port Charlotte, North Port, Englewood, Boca Grande, Venice, Nokomis, Sarasota and Cape Coral."
+  - question: "Is it a problem if my project is small?"
+    answer: "No. We take on everything from a single room to the whole house, and the consultation is the best way to decide the right scope together."
 ---
 
 <section class="page-hero has-image">
@@ -147,6 +156,34 @@ path: "/contact"
         <a class="btn" href="/locations/englewood">Englewood</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>What Happens When You Get in Touch</h2>
+        <p>Send the form or call (941) 456-4136 and we will talk through your project and set up your initial consultation. It is free, a $250 value, and it takes place in your home, where we can see the light, the layout and how you live. From there we put together layouts, palettes and selections, and show you real samples laid out in our studio in Charlotte Harbor.</p>
+        <p>We work with homeowners in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a> and across Charlotte, Sarasota and Lee Counties. Want to see the work first? Browse the <a href="/portfolio">portfolio</a> or <a href="/team">meet Holly, Lori and Margaret</a>.</p>
+        <h2>Frequently Asked Questions</h2>
+        <div class="faq">
+          <details>
+            <summary>What happens after I send the form?</summary>
+            <p>We get in touch to talk through your project and set up your initial consultation, which is free (a $250 value). Every project starts with a consultation in your home.</p>
+          </details>
+          <details>
+            <summary>Can I visit the studio?</summary>
+            <p>Yes, by appointment. Our studio is in Charlotte Harbor, just across the Peace River from downtown Punta Gorda, and it is where we lay out your selections as real samples.</p>
+          </details>
+          <details>
+            <summary>Do you work outside Punta Gorda?</summary>
+            <p>Yes. We design and renovate homes across Charlotte, Sarasota and Lee Counties, including Port Charlotte, North Port, Englewood, Boca Grande, Venice, Nokomis, Sarasota and Cape Coral.</p>
+          </details>
+          <details>
+            <summary>Is it a problem if my project is small?</summary>
+            <p>No. We take on everything from a single room to the whole house, and the consultation is the best way to decide the right scope together.</p>
+          </details>
+        </div>
       </div>
     </div>
   </section>

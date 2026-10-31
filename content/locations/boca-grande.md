@@ -7,6 +7,7 @@ summary: "Classic island homes deserve a light touch. We design and renovate Boc
 order: 5
 city: "Boca Grande"
 region: "FL"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -61,6 +62,25 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/port-charlotte">Port Charlotte</a>
         <a class="btn" style="justify-content:center;" href="/locations/punta-gorda">Punta Gorda</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Interior Designer Near You in Boca Grande</h2>
+        <p>Boca Grande homes on Gasparilla Island call for a light touch: rooms that feel collected and relaxed, fabrics and finishes that handle salt air, and furniture that looks right in a classic island house. Most are seasonal residences, so the practical side matters as much as the look, with deliveries planned around the causeway and the season, and the house ready when the owners arrive.</p>
+        <p>We handle furniture ordering, receiving, delivery and placement, and we, Holly and Lori, lead every project, with more than 20 years designing Southwest Florida homes and 500+ projects completed. The initial consultation is free, a $250 value.</p>
+        <h3>Design services in Boca Grande</h3>
+        <ul>
+          <li><a href="/services/interior-design">Interior design</a> for island and seasonal homes</li>
+          <li><a href="/services/custom-fabrics">Custom fabrics</a> and <a href="/services/upholstery-bedding">bedding</a></li>
+          <li><a href="/services/furniture-selection">Furniture ordering, delivery and placement</a></li>
+          <li><a href="/services/art-accessories">Art and final styling</a></li>
+          <li><a href="/services/window-treatments">Window treatments</a></li>
+        </ul>
+        <h3>Nearby areas</h3>
+        <p>On the mainland we also design homes in <a href="/locations/englewood">Englewood</a> and <a href="/locations/punta-gorda">Punta Gorda</a>.</p>
       </div>
     </div>
   </section>

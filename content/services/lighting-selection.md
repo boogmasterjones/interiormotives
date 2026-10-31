@@ -10,6 +10,7 @@ faqs:
     answer: "We select and specify fixtures and coordinate with your licensed electrician or builder for installation."
   - question: "How big should a chandelier be over a dining table?"
     answer: "A common starting point is roughly half to two-thirds the width of the table, adjusted for ceiling height and the fixture's visual weight. We'll size it to your specific room."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -95,6 +96,26 @@ faqs:
         <a class="btn" href="/locations/punta-gorda">Punta Gorda</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Residential Lighting Design for Punta Gorda Homes</h2>
+        <p>Our lighting work is for homes, not commercial spaces. In a Punta Gorda or Port Charlotte home with high ceilings and an open great room, one fixture in the middle of the ceiling is never enough. We plan light in layers, general light, task light over the island and the desk, and accent light for art, so each part of the room works at night as well as it does in the daytime.</p>
+        <p>We select and specify the fixtures and coordinate with your licensed electrician or builder for installation, and for renovations and new builds we plan the lighting early, before the ceilings are closed.</p>
+        <h3>Residential lighting services</h3>
+        <ul>
+          <li>Chandeliers for dining rooms and entries</li>
+          <li>Pendants over kitchen islands</li>
+          <li>Sconces and wall lights</li>
+          <li>Table and floor lamps</li>
+          <li>Mirrors and finishing accessories</li>
+          <li>Lighting plans for renovations and new construction</li>
+        </ul>
+        <h3>Where we work</h3>
+        <p>We plan residential lighting for homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/venice">Venice and Nokomis</a> and across Charlotte, Sarasota and Lee Counties.</p>
       </div>
     </div>
   </section>

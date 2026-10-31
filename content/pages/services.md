@@ -147,6 +147,17 @@ path: "/services"
       </div>
     </div>
   </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Interior Design Services Near Punta Gorda &amp; Port Charlotte</h2>
+        <p>Every service above is handled by the same owner-led team, from our studio in Charlotte Harbor across the river from downtown Punta Gorda. We, Holly and Lori, have designed Southwest Florida homes for more than 20 years, with 500+ projects completed. Most projects combine several services, a layout, a palette, furniture and window treatments, so having design and renovation under one roof matters.</p>
+        <p>The initial consultation is free, a $250 value, and it takes place in your home. Not sure which service you need? Start with <a href="/services/interior-design">interior design</a> and we will work out the right scope together.</p>
+        <h3>Where we work</h3>
+        <p>We design and renovate homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>, and across Charlotte, Sarasota and Lee Counties.</p>
+      </div>
+    </div>
+  </section>
   <section class="section cta-band band-navy" id="cta">
     <div class="container">
       <div class="section-head center">

@@ -7,6 +7,7 @@ summary: "From Manasota Key beach homes to canal-front houses on Lemon Bay, we d
 order: 4
 city: "Englewood"
 region: "FL"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -61,6 +62,25 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/punta-gorda">Punta Gorda</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Interior Designer Near You in Englewood</h2>
+        <p>Englewood homes split between the beach and the bay: Manasota Key houses that need furnishings and fabrics built for sand and salt air, canal-front homes on Lemon Bay, and older Englewood cottages that reward a careful update rather than a gut job. Many are seasonal homes, so we often furnish and finish a house before its owners arrive, handling the ordering, receiving, delivery and placement.</p>
+        <p>Our studio is in Charlotte Harbor, close by in Charlotte County. We, Holly and Lori, lead every project, with more than 20 years designing Southwest Florida homes and 500+ projects completed, and the initial consultation is free, a $250 value.</p>
+        <h3>Design services in Englewood</h3>
+        <ul>
+          <li><a href="/services/interior-design">Interior design</a> for beach and bay homes</li>
+          <li><a href="/services/custom-fabrics">Performance fabrics</a> and <a href="/services/rugs-fabrics">rugs</a> for coastal living</li>
+          <li><a href="/services/kitchen-bath-design">Kitchen and bath design and renovation</a></li>
+          <li><a href="/services/furniture-selection">Furniture for seasonal homes</a></li>
+          <li><a href="/services/window-treatments">Window treatments</a></li>
+        </ul>
+        <h3>Nearby areas</h3>
+        <p>We also design homes on <a href="/locations/boca-grande">Boca Grande</a>, in <a href="/locations/punta-gorda">Punta Gorda</a> and up the coast in <a href="/locations/venice">Venice and Nokomis</a>.</p>
       </div>
     </div>
   </section>

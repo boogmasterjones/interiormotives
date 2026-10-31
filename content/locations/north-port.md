@@ -7,6 +7,7 @@ summary: "North Port is one of Southwest Florida's fastest-growing cities, and i
 order: 3
 city: "North Port"
 region: "FL"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -61,6 +62,25 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Interior Designer Near You in North Port</h2>
+        <p>Most North Port homes are newer construction, which makes the design work less about undoing old decisions and more about making a new house feel like yours: a color palette with some warmth, furniture scaled to open rooms, window treatments for big sliders, and, for homes still being built, selections made alongside the builder.</p>
+        <p>Our studio is in Charlotte Harbor, a short drive down US 41. We, Holly and Lori, lead every project, with more than 20 years designing Southwest Florida homes and 500+ projects completed, and the initial consultation is free, a $250 value.</p>
+        <h3>Design services in North Port</h3>
+        <ul>
+          <li><a href="/services/new-construction-design">New construction design</a></li>
+          <li><a href="/services/interior-design">Whole-home interior design</a></li>
+          <li><a href="/services/space-planning">Space planning</a> for open floor plans</li>
+          <li><a href="/services/color-consultation">Color consultation</a></li>
+          <li><a href="/services/furniture-selection">Furniture ordering, delivery and placement</a></li>
+        </ul>
+        <h3>Nearby areas</h3>
+        <p>We also design homes in <a href="/locations/port-charlotte">Port Charlotte</a>, <a href="/locations/punta-gorda">Punta Gorda</a> and <a href="/locations/venice">Venice and Nokomis</a>.</p>
       </div>
     </div>
   </section>

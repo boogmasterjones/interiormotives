@@ -10,6 +10,7 @@ faqs:
     answer: "Usually. Bring us the piece or a cutting and we'll pull coordinating options in the right tone and scale."
   - question: "What does \"to the trade\" mean?"
     answer: "Some fabric lines are only sold through designers. We have access to those lines and order on your behalf."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -95,6 +96,26 @@ faqs:
         <a class="btn" href="/locations/punta-gorda">Punta Gorda</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Custom Fabrics for Punta Gorda &amp; Port Charlotte Homes</h2>
+        <p>Fabric has a hard life in Southwest Florida. Sun through big windows fades it, humidity tests it, and sandy feet and pets find it. We choose fabrics for the room they are going into: performance weaves for family rooms and lanai cushions, lighter natural fabrics where the sun is gentler, and drapery fabric that frames a view without fading in a season.</p>
+        <p>We have access to to-the-trade fabric lines sold only through designers, and you see and handle the real samples in our studio before anything is cut and sewn.</p>
+        <h3>Custom fabric services</h3>
+        <ul>
+          <li>Drapery and shade fabric</li>
+          <li>Pillow and cushion fabric</li>
+          <li>Outdoor and performance fabrics for the lanai</li>
+          <li>Upholstery fabric for new and existing pieces</li>
+          <li>Table linens</li>
+          <li>Coordinated fabric schemes for a whole room</li>
+        </ul>
+        <h3>Where we work</h3>
+        <p>We select custom fabrics for homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>

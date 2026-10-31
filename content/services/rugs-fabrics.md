@@ -10,6 +10,7 @@ faqs:
     answer: "In most living rooms, the rug should be large enough that at least the front legs of every seating piece rest on it. We measure the room and furniture plan to get it right."
   - question: "Can you get a rug in a custom size?"
     answer: "Yes. Many lines can be cut and bound to a specific size, which is often the answer for long halls and odd-shaped rooms."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -95,6 +96,26 @@ faqs:
         <a class="btn" href="/locations/punta-gorda">Punta Gorda</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Area Rugs for Punta Gorda &amp; Port Charlotte Homes</h2>
+        <p>Tile and hard floors are everywhere around Charlotte Harbor, so rugs do a lot of work: they define the living, dining and reading areas in an open great room, soften sound, and make a space feel warm. They also have to cope with sand, sun and bare feet coming in from the pool.</p>
+        <p>We size each rug to the furniture plan, layer them where it helps, and choose between wool, natural fibers and performance weaves for the way the room is used.</p>
+        <h3>Rug and floor covering services</h3>
+        <ul>
+          <li>Living room and great room rugs</li>
+          <li>Dining room rugs</li>
+          <li>Bedroom rugs</li>
+          <li>Custom-cut and bound rugs</li>
+          <li>Natural fiber rugs such as jute and sisal</li>
+          <li>Performance and indoor-outdoor rugs</li>
+        </ul>
+        <h3>Where we work</h3>
+        <p>We select rugs for homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>

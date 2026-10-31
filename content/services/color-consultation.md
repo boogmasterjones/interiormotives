@@ -5,6 +5,7 @@ name: "Color Consultation"
 heading: "Color Consultation in Punta Gorda & Port Charlotte"
 summary: "A whole-home color palette that flows from room to room, ties your finishes together, and actually holds up to Florida light."
 order: 3
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -96,6 +97,26 @@ order: 3
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Color Consultation for Punta Gorda &amp; Port Charlotte Homes</h2>
+        <p>Florida light is strong and it moves. A white that looks soft in a showroom can turn blue in a north-facing Punta Gorda bedroom or yellow in a west-facing Port Charlotte great room by late afternoon. A color consultation tests the palette in your own light and against what is already in the house: the tile floors, the cabinets, the countertops and the view.</p>
+        <p>In an open plan, one room's color is every room's color, so we build a whole-home palette that flows from the entry to the lanai and ties paint, finishes, fabric and rugs together. You see real samples, laid out in our studio, before a single wall is painted.</p>
+        <h3>Color and finish services</h3>
+        <ul>
+          <li>Interior paint colors for every room</li>
+          <li>A whole-home palette for open floor plans</li>
+          <li>Trim, door and ceiling colors and sheens</li>
+          <li>Coordinating tile, stone, cabinet and countertop finishes</li>
+          <li>Accent walls and <a href="/services/wallcoverings">wallcoverings</a></li>
+          <li>Fabric and rug colors that tie the palette together</li>
+        </ul>
+        <h3>Where we consult on color</h3>
+        <p>Color consultations are available in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a>, <a href="/locations/englewood">Englewood</a>, <a href="/locations/boca-grande">Boca Grande</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>

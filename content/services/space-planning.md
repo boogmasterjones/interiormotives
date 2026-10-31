@@ -5,6 +5,7 @@ name: "Space Planning"
 heading: "Space Planning in Punta Gorda & Southwest Florida"
 summary: "Smart, livable layouts that make the most of your square footage — whether that's an open-concept great room or a tricky, oddly-shaped floor plan."
 order: 2
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
@@ -96,6 +97,26 @@ order: 2
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-white">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Space Planning for Punta Gorda &amp; Port Charlotte Homes</h2>
+        <p>Two kinds of floor plan come up again and again around Charlotte Harbor. Newer homes in Punta Gorda Isles, Burnt Store and North Port tend to have one big great room that opens to the lanai, where the hard part is deciding where the TV goes without turning your back on the water. Older Port Charlotte ranch homes often have smaller, closed-off rooms that need a smarter layout, or a renovation, to work for the way families live now.</p>
+        <p>Space planning settles those questions on paper before anything is bought or built: furniture sized to the room, clear walkways, conversation areas and sightlines. Because one team handles design and renovation, a plan that calls for moving a wall or opening a kitchen does not have to start over with someone else.</p>
+        <h3>Space planning services</h3>
+        <ul>
+          <li>Furniture layouts and floor plans for each room</li>
+          <li>Open great room and open-concept layouts</li>
+          <li>Traffic flow and conversation areas</li>
+          <li>Indoor-outdoor layouts that connect to the lanai</li>
+          <li>Layouts for renovations and new construction</li>
+          <li>Scaling furniture to the room before you order</li>
+        </ul>
+        <h3>Where we plan spaces</h3>
+        <p>We plan homes in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor and <a href="/locations/north-port">North Port</a>, and across Charlotte, Sarasota and Lee Counties, including <a href="/locations/englewood">Englewood</a>, <a href="/locations/venice">Venice and Nokomis</a> and <a href="/locations/sarasota">Sarasota</a>.</p>
       </div>
     </div>
   </section>
