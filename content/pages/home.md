@@ -105,9 +105,11 @@ updatedAt: 2026-10-30
           <span class="field-label">How Can We Reach You? *</span>
           <p class="field-hint">Phone or email — whichever you prefer.</p>
           <div class="field-row">
-            <input type="tel" name="phone" placeholder="Phone" autocomplete="tel">
-            <input type="email" name="email" placeholder="Email" autocomplete="email">
+            <input type="tel" name="phone" placeholder="Phone" autocomplete="tel" aria-label="Phone">
+            <input type="email" name="email" placeholder="Email" autocomplete="email" aria-label="Email">
           </div>
+          <!-- SMS consent for Interior Motives Design's own 10DLC campaign: unchecked, optional, separate from any terms, names the business and the message types, links to the policy pages. Lands in the Netlify submission as sms_consent=yes. -->
+          <label class="consent-row"><input type="checkbox" name="sms_consent" value="yes"> <span>By providing my phone number and checking this box, I agree to receive SMS customer care messages from Interior Motives Design: callback confirmations, follow-ups on my request, appointment reminders and a review request after a completed project. Message frequency may vary. Standard message and data rates may apply. Reply STOP to opt out, HELP for help. We will not share mobile information with third parties for promotional or marketing purposes. Consent is not a condition of purchase. <a href="/privacy">Privacy Policy</a> and <a href="/terms">Terms</a>.</span></label>
           <p class="step-hint">Tell us who you are and a few more questions will appear.</p>
         </div>
         <div class="form-step" hidden="">
