@@ -89,12 +89,12 @@ bodyClass: "home"
   </section>
   <section class="section form-section band-sky" id="consultation">
     <div class="container">
-      <form class="quote-form" name="consultation-request" method="POST" action="https://formsubmit.co/info@interiormotives1.com" novalidate="">
-        <input type="hidden" name="_subject" value="New Consultation Request — Interior Motives Design">
-        <input type="hidden" name="_next" value="https://interiormotivesfl.com/thank-you">
-        <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_template" value="table">
-        <p style="display:none"><label>Leave this field blank: <input name="_honey"></label></p>
+      <form class="quote-form" name="consultation-request" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="bot-field" novalidate="">
+        <input type="hidden" name="form-name" value="consultation-request">
+        <input type="hidden" name="page" value="">
+        <input type="hidden" name="first_page" value="">
+        <input type="hidden" name="referrer" value="">
+        <p style="display:none"><label>Leave this field blank: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
         <p class="eyebrow" style="margin-bottom:0.25rem;">Free Consultation · $250 Value</p>
         <h2 style="margin-bottom:1.25rem;">Request a Consultation</h2>
         <div class="form-progress" aria-hidden="true"><span></span><span></span><span></span><span></span><small>Step 1 of 4</small></div>
@@ -123,6 +123,18 @@ bodyClass: "home"
             <option>Englewood</option>
             <option>Boca Grande</option>
             <option>Nokomis</option>
+            <option>Other</option>
+          </select>
+          <span class="field-label">How Did You Hear About Us?</span>
+          <select name="heard_about" aria-label="How did you hear about us?">
+            <option value="" selected="">Choose one (optional)</option>
+            <option>Google search</option>
+            <option>Google Maps / our Google listing</option>
+            <option>Facebook</option>
+            <option>Instagram</option>
+            <option>A friend, family member or past client</option>
+            <option>A builder, realtor or trade partner</option>
+            <option>Saw our work in someone's home</option>
             <option>Other</option>
           </select>
           <span class="field-label">What Can We Help With?</span>
@@ -180,7 +192,7 @@ bodyClass: "home"
             </li>
             <li>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 6-9 12-9 12s-9-6-9-12a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-              <span>4288 Pinnacle St, Charlotte Harbor, FL 33980<small>Serving Sarasota, Charlotte &amp; Lee Counties</small></span>
+              <span>4288 Pinnacle St, Punta Gorda, FL 33980<small>Our Charlotte Harbor studio · serving Sarasota, Charlotte &amp; Lee Counties</small></span>
             </li>
           </ul>
         </div>

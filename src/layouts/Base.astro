@@ -3,7 +3,8 @@ import Analytics from '../components/Analytics.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { canonicalUrl, site } from '../lib/site';
-import { serializeJsonLd } from '../lib/schema';
+import { businessSchema, serializeJsonLd } from '../lib/schema';
+import { getLocations, getServices } from '../lib/content';
 
 interface Props { title: string; description: string; image?: string; noindex?: boolean; ogType?: 'website' | 'article'; jsonLd?: Record<string, unknown>[]; bodyClass?: string; }
 const { title, description, image, noindex = false, ogType = 'website', jsonLd = [], bodyClass } = Astro.props;
@@ -11,6 +12,10 @@ const canonical = canonicalUrl(Astro.url.pathname);
 const ogImage = `${site.site.url}${image ?? site.site.defaultOgImage}`;
 const gaId = site.site.gaMeasurementId;
 const fonts = site.brand.fonts.googleFontsUrl;
+// One business node on every page (SITE_RULES 5.10); page-specific nodes (Service, FAQ, breadcrumbs) follow it.
+const [services, locations] = await Promise.all([getServices(), getLocations()]);
+const structured = [businessSchema(locations.map((l) => l.data.city), services.map((s) => s.data.name)), ...jsonLd];
+const mainPhone = site.business.phone.replace(/D/g, '').slice(-10);
 ---
 
 <!doctype html>
@@ -37,13 +42,13 @@ const fonts = site.brand.fonts.googleFontsUrl;
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
-    {jsonLd.map((item) => <script is:inline type="application/ld+json" set:html={serializeJsonLd(item)} />)}
+    {structured.map((item) => <script is:inline type="application/ld+json" set:html={serializeJsonLd(item)} />)}
     {gaId && <Analytics id={gaId} />}
     {fonts && (<><link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link rel="stylesheet" href={fonts} /></>)}
     <link rel="stylesheet" href="/css/style.css">
     <style is:inline>picture{display:contents}</style>
   </head>
-  <body class={bodyClass}>
+  <body class={bodyClass} data-main-phone={mainPhone}>
     <Header />
     <main>
       <slot />
@@ -51,5 +56,6 @@ const fonts = site.brand.fonts.googleFontsUrl;
     <Footer />
     <script is:inline src="/js/main.js"></script>
     <script is:inline src="/js/progressive-form.js" defer></script>
+    <script is:inline src="/js/lead-tracking.js" defer></script>
   </body>
 </html>

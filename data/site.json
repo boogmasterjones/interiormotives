@@ -3,7 +3,7 @@
     "url": "https://interiormotivesfl.com",
     "locale": "en-US",
     "calendlyUrl": "",
-    "formAction": "https://formsubmit.co/info@interiormotives1.com",
+    "formAction": "",
     "defaultOgImage": "/images/brand/logo-navy.png",
     "gaMeasurementId": "G-G4PZQD0B4R",
     "googleSiteVerification": "_2Z6HDPJL1SNRIhCsNov4Ur5FdfR1fJLSdgCBEPXMQ4"
@@ -13,16 +13,18 @@
     "kind": "operating",
     "schemaType": "ProfessionalService",
     "tagline": "Interior design and renovation design for Southwest Florida homes.",
-    "description": "Interior Motives Design is a Southwest Florida interior design studio in Charlotte Harbor offering whole-home design, kitchen and bath design, color consultation, custom fabrics, furniture, lighting and window treatments.",
+    "description": "Interior Motives Design is an owner-led interior design and renovation studio in Charlotte Harbor, Punta Gorda, FL, designing homes across Charlotte, Sarasota and Lee Counties: whole-home design, space planning, kitchen and bath design, color, fabrics, furniture, lighting and window treatments.",
     "phone": "(941) 456-4136",
     "email": "Info@InteriorMotives1.com",
-    "regionLabel": "Charlotte Harbor & Southwest Florida",
+    "regionLabel": "Punta Gorda, Charlotte Harbor & Southwest Florida",
     "alsoServing": [
-      "Charlotte Harbor"
+      "Charlotte Harbor",
+      "Cape Coral",
+      "Nokomis"
     ],
     "address": {
       "street": "4288 Pinnacle St",
-      "city": "Charlotte Harbor",
+      "city": "Punta Gorda",
       "region": "FL",
       "postalCode": "33980",
       "showOnSite": true
@@ -42,8 +44,11 @@
         "closes": "23:59"
       }
     ],
-    "sameAs": [],
-    "googleMapsUrl": "",
+    "sameAs": [
+      "https://www.facebook.com/1370709566124673",
+      "https://www.instagram.com/interiormotives_design/"
+    ],
+    "googleMapsUrl": "https://g.page/r/CfIl01umbGmYEBM",
     "rating": null
   },
   "brand": {
@@ -69,7 +74,7 @@
   ],
   "stats": [],
   "cta": {
-    "label": "Request a Consultation",
+    "label": "Book a Design Consultation",
     "href": "/contact#consultation"
   }
 }

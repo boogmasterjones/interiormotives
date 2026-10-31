@@ -5,6 +5,9 @@ type Faq = { question: string; answer: string };
 type Crumb = { name: string; path: string };
 
 const businessId = `${site.site.url}/#business`;
+// Cities always carry the state ("Punta Gorda, FL") so Google cannot match a same-named town elsewhere.
+const withState = (city: string) => (/,s*[A-Z]{2}$/.test(city) ? city : `${city}, ${site.business.address.region}`);
+const cityNode = (name: string) => ({ '@type': 'City', name: withState(name) });
 
 // "<" is escaped so content can never close the surrounding <script> tag.
 export function serializeJsonLd(data: JsonLd | JsonLd[]): string {
@@ -24,6 +27,7 @@ export function businessSchema(cities: string[], serviceNames: string[]): JsonLd
     telephone: phoneHref(business.phone).replace('tel:', ''),
     email: business.email,
     image: `${site.site.url}${site.site.defaultOgImage}`,
+    logo: `${site.site.url}${site.site.defaultOgImage}`,
     address: {
       '@type': 'PostalAddress',
       ...(address.street && { streetAddress: address.street }),
@@ -32,7 +36,7 @@ export function businessSchema(cities: string[], serviceNames: string[]): JsonLd
       ...(address.postalCode && { postalCode: address.postalCode }),
       addressCountry: 'US',
     },
-    areaServed: [...cities, ...business.alsoServing].map((name) => ({ '@type': 'City', name })),
+    areaServed: [...new Set([...cities, ...business.alsoServing])].map(cityNode),
     makesOffer: serviceNames.map((name) => ({
       '@type': 'Offer',
       itemOffered: { '@type': 'Service', name },
@@ -68,15 +72,16 @@ export function breadcrumbSchema(crumbs: Crumb[]): JsonLd {
   };
 }
 
-export function serviceSchema(name: string, description: string, path: string, areaName: string): JsonLd {
+export function serviceSchema(name: string, description: string, path: string, areas: string[]): JsonLd {
   return {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name,
+    serviceType: name,
     description,
     url: canonicalUrl(path),
     provider: { '@id': businessId },
-    areaServed: areaName,
+    areaServed: areas.map(cityNode),
   };
 }
 
@@ -116,14 +121,17 @@ export function blogPostingSchema(post: {
   };
 }
 
-export function areaSchema(city: string, path: string): JsonLd {
+// A location page describes the service in one city. It is a Service node pointing at the one business node, never a second
+// copy of the business (two business nodes on one page confuse Google; SITE_RULES 5.10).
+export function areaSchema(city: string, path: string, description: string): JsonLd {
   return {
     '@context': 'https://schema.org',
-    '@type': site.business.schemaType,
-    name: site.business.name,
-    telephone: phoneHref(site.business.phone).replace('tel:', ''),
+    '@type': 'Service',
+    name: `Interior design in ${withState(city)}`,
+    serviceType: 'Interior design',
+    description,
     url: canonicalUrl(path),
-    areaServed: { '@type': 'City', name: `${city}, ${site.business.address.region}` },
-    parentOrganization: { '@id': businessId },
+    provider: { '@id': businessId },
+    areaServed: cityNode(city),
   };
 }

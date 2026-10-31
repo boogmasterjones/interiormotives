@@ -1,14 +1,19 @@
 ---
 import Socials from "./Socials.astro";
-// Static footer ported from the original site.
+import { getLocations } from "../lib/content";
+import { phoneHref, site } from "../lib/site";
+// Footer ported from the original site. NAP comes from data/site.json (identical to the Google listing); the service-area
+// list is generated from content/locations in the same order as the rest of the site (SITE_RULES 5.13).
+const { name, phone, email, address } = site.business;
+const locations = await getLocations();
 ---
 <footer class="site-footer">
   <div class="container">
     <div class="footer-grid">
       <div>
-        <p class="footer-logo"><img src="/images/brand/logo-white.png" alt="Interior Motives Design" width="316" height="190"></p>
+        <p class="footer-logo"><img src="/images/brand/logo-white.png" alt={name} width="316" height="190"></p>
         <p class="footer-tagline">Beautiful spaces. Inspired by you. Interior design and renovation across Southwest Florida.</p>
-        <p class="footer-address">4288 Pinnacle St<br>Charlotte Harbor, FL 33980<br><a href="tel:+19414564136">(941) 456-4136</a><br><a href="mailto:Info@InteriorMotives1.com">Info@InteriorMotives1.com</a></p>
+        <p class="footer-address">{name}<br>{address.street}<br>{address.city}, {address.region} {address.postalCode}<br><a href={phoneHref(phone)}>{phone}</a><br><a href={`mailto:${email}`}>{email}</a></p>
       </div>
       <div>
         <h4>Services</h4>
@@ -36,15 +41,8 @@ import Socials from "./Socials.astro";
       <div>
         <h4>Service Area</h4>
         <ul>
-          <li><a href="/locations/sarasota">Sarasota, FL</a></li>
-          <li><a href="/locations/nokomis">Nokomis, FL</a></li>
-          <li><a href="/locations/venice">Venice, FL</a></li>
-          <li><a href="/locations/englewood">Englewood, FL</a></li>
-          <li><a href="/locations/north-port">North Port, FL</a></li>
-          <li><a href="/locations/port-charlotte">Port Charlotte, FL</a></li>
-          <li><a href="/locations/punta-gorda">Punta Gorda, FL</a></li>
-          <li><a href="/locations/boca-grande">Boca Grande, FL</a></li>
-          <li><a href="/locations/cape-coral">Cape Coral, FL</a></li>
+          {locations.map((l) => <li><a href={`/locations/${l.id}`}>{l.data.name}</a></li>)}
+          <li><a href="/locations">All service areas</a></li>
         </ul>
       </div>
       <div>
@@ -60,7 +58,7 @@ import Socials from "./Socials.astro";
     </div>
     <Socials />
     <div class="footer-bottom">
-      <p>© 2026 Interior Motives Design. All rights reserved.</p>
+      <p>© 2026 {name}. All rights reserved.</p>
       <p>Serving Sarasota, Charlotte &amp; Lee Counties, FL</p>
     </div>
   </div>
