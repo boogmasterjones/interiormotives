@@ -4,7 +4,7 @@ description: "Interior design and renovation in Sarasota, FL. 20+ years, 500+ pr
 name: "Sarasota, FL"
 heading: "Interior Designer in Sarasota, FL"
 summary: "From historic bungalows near downtown to condos overlooking Sarasota Bay, we design and renovate homes that fit the way Sarasota actually lives."
-order: 1
+order: 7
 city: "Sarasota"
 region: "FL"
 ---
@@ -58,10 +58,8 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/north-port">North Port</a>
         <a class="btn" style="justify-content:center;" href="/locations/port-charlotte">Port Charlotte</a>
         <a class="btn" style="justify-content:center;" href="/locations/punta-gorda">Punta Gorda</a>
-        <a class="btn" style="justify-content:center;" href="/locations/cape-coral">Cape Coral</a>
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
-        <a class="btn" style="justify-content:center;" href="/locations/nokomis">Nokomis</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
       </div>
     </div>

@@ -4,7 +4,7 @@ description: "Interior design and renovation in Venice, FL. 20+ years, 500+ proj
 name: "Venice, FL"
 heading: "Interior Designer in Venice, FL"
 summary: "Venice was master-planned in the 1920s with a distinct Northern Italian Renaissance character, and its historic homes still carry that character today — we design with it, not against it."
-order: 3
+order: 6
 city: "Venice"
 region: "FL"
 ---
@@ -58,10 +58,8 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/north-port">North Port</a>
         <a class="btn" style="justify-content:center;" href="/locations/port-charlotte">Port Charlotte</a>
         <a class="btn" style="justify-content:center;" href="/locations/punta-gorda">Punta Gorda</a>
-        <a class="btn" style="justify-content:center;" href="/locations/cape-coral">Cape Coral</a>
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
-        <a class="btn" style="justify-content:center;" href="/locations/nokomis">Nokomis</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
       </div>
     </div>

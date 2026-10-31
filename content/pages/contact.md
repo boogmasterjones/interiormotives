@@ -144,10 +144,8 @@ path: "/contact"
         <a class="btn" href="/locations/north-port">North Port</a>
         <a class="btn" href="/locations/port-charlotte">Port Charlotte</a>
         <a class="btn" href="/locations/punta-gorda">Punta Gorda</a>
-        <a class="btn" href="/locations/cape-coral">Cape Coral</a>
         <a class="btn" href="/locations/englewood">Englewood</a>
         <a class="btn" href="/locations/boca-grande">Boca Grande</a>
-        <a class="btn" href="/locations/nokomis">Nokomis</a>
         <a class="btn btn-primary" href="/locations">View All Areas</a>
       </div>
     </div>

@@ -4,7 +4,7 @@ description: "Interior design and renovation in North Port, FL. 20+ years, 500+ 
 name: "North Port, FL"
 heading: "Interior Designer in North Port, FL"
 summary: "North Port is one of Southwest Florida's fastest-growing cities, and its housing stock reflects that — mostly newer-construction homes where design decisions shape a blank canvas rather than update…"
-order: 5
+order: 3
 city: "North Port"
 region: "FL"
 ---
@@ -58,10 +58,8 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/venice">Venice</a>
         <a class="btn" style="justify-content:center;" href="/locations/port-charlotte">Port Charlotte</a>
         <a class="btn" style="justify-content:center;" href="/locations/punta-gorda">Punta Gorda</a>
-        <a class="btn" style="justify-content:center;" href="/locations/cape-coral">Cape Coral</a>
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
-        <a class="btn" style="justify-content:center;" href="/locations/nokomis">Nokomis</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
       </div>
     </div>

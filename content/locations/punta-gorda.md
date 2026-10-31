@@ -4,7 +4,7 @@ description: "Interior design and renovation in Punta Gorda, FL. 20+ years, 500+
 name: "Punta Gorda, FL"
 heading: "Interior Designer in Punta Gorda, FL"
 summary: "Punta Gorda pairs a walkable historic downtown on Charlotte Harbor with newer waterfront neighborhoods — two very different design conversations, and we're comfortable having both."
-order: 7
+order: 1
 city: "Punta Gorda"
 region: "FL"
 ---
@@ -58,10 +58,8 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/venice">Venice</a>
         <a class="btn" style="justify-content:center;" href="/locations/north-port">North Port</a>
         <a class="btn" style="justify-content:center;" href="/locations/port-charlotte">Port Charlotte</a>
-        <a class="btn" style="justify-content:center;" href="/locations/cape-coral">Cape Coral</a>
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
-        <a class="btn" style="justify-content:center;" href="/locations/nokomis">Nokomis</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
       </div>
     </div>

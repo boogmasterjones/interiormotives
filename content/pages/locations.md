@@ -1,8 +1,8 @@
 ---
-title: "Service Area | Interior Motives Southwest Florida"
-description: "Interior Motives serves Sarasota, Venice, North Port, Port Charlotte, Punta Gorda, and Cape Coral, FL. Licensed, 20+ years, 500+ projects."
-heading: "Serving Southwest Florida"
-subheading: "From downtown Sarasota condos to canal-front homes in Cape Coral, we bring the same design and renovation expertise to every corner of the Gulf Coast."
+title: "Interior Design Service Area: Charlotte, Sarasota & Lee County"
+description: "Interior design and renovation from our Charlotte Harbor studio for Punta Gorda, Port Charlotte, North Port, Englewood, Venice and more. 20+ years, 500+ projects."
+heading: "Interior Design Across Charlotte, Sarasota & Lee Counties"
+subheading: "From our studio in Charlotte Harbor, Punta Gorda, we design and renovate homes from Boca Grande to Sarasota, with Punta Gorda and Port Charlotte right on our doorstep."
 path: "/locations"
 ---
 
@@ -11,26 +11,26 @@ path: "/locations"
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › Service Area</p>
       <p class="eyebrow">Service Area</p>
-      <h1>Serving Southwest Florida</h1>
-      <p class="lede">From downtown Sarasota condos to canal-front homes in Cape Coral, we bring the same design and renovation expertise to every corner of the Gulf Coast.</p>
+      <h1>Interior Design Across Charlotte, Sarasota &amp; Lee Counties</h1>
+      <p class="lede">From our studio in Charlotte Harbor, Punta Gorda, we design and renovate homes from Boca Grande to Sarasota, with Punta Gorda and Port Charlotte right on our doorstep.</p>
     </div>
-      <div class="img-frame"><img src="/images/portfolio/outdoor-lanai-kitchen.jpg" alt="Outdoor lanai kitchen and dining with water views" loading="eager"></div>
+      <div class="img-frame"><img src="/images/portfolio/outdoor-lanai-kitchen.jpg" alt="Outdoor lanai kitchen and dining with water views in Southwest Florida" loading="eager"></div>
     </div>
   </section>
   <section class="section band-white">
     <div class="container">
       <div class="section-head center">
-        <p class="lede" style="margin-inline:auto;">We service all of Sarasota, Lee, and Charlotte counties.</p>
+        <p class="lede" style="margin-inline:auto;">We serve all of Charlotte, Sarasota and Lee Counties. These are the communities where most of our interior design work happens.</p>
       </div>
       <div class="grid grid-3">
-        <a class="card service-card" href="/locations/sarasota">
-          <h3>Sarasota, FL</h3>
-          <p>Downtown condos, historic bungalows, and the Siesta Key arts &amp; beach lifestyle.</p>
+        <a class="card service-card" href="/locations/punta-gorda">
+          <h3>Punta Gorda, FL</h3>
+          <p>Our home base: the historic harbor-front downtown, Punta Gorda Isles canal homes and Burnt Store.</p>
           <span class="card-link">View Area →</span>
         </a>
-        <a class="card service-card" href="/locations/venice">
-          <h3>Venice, FL</h3>
-          <p>Northern Italian Renaissance-planned streets and historic Venice Island homes.</p>
+        <a class="card service-card" href="/locations/port-charlotte">
+          <h3>Port Charlotte, FL</h3>
+          <p>Canal-front ranch homes from a classic mid-century planned community, just across the Peace River.</p>
           <span class="card-link">View Area →</span>
         </a>
         <a class="card service-card" href="/locations/north-port">
@@ -38,21 +38,35 @@ path: "/locations"
           <p>One of the region's fastest-growing cities, full of newer-construction homes.</p>
           <span class="card-link">View Area →</span>
         </a>
-        <a class="card service-card" href="/locations/port-charlotte">
-          <h3>Port Charlotte, FL</h3>
-          <p>Canal-front ranch homes from a classic mid-century planned community.</p>
+        <a class="card service-card" href="/locations/englewood">
+          <h3>Englewood, FL</h3>
+          <p>Manasota Key beach houses, Lemon Bay waterfront and Old Englewood cottages.</p>
           <span class="card-link">View Area →</span>
         </a>
-        <a class="card service-card" href="/locations/punta-gorda">
-          <h3>Punta Gorda, FL</h3>
-          <p>A walkable historic waterfront downtown on Charlotte Harbor.</p>
+        <a class="card service-card" href="/locations/boca-grande">
+          <h3>Boca Grande, FL</h3>
+          <p>Classic island homes and seasonal residences on Gasparilla Island.</p>
           <span class="card-link">View Area →</span>
         </a>
-        <a class="card service-card" href="/locations/cape-coral">
-          <h3>Cape Coral, FL</h3>
-          <p>More canals than any other city in the world, and homes built around the water.</p>
+        <a class="card service-card" href="/locations/venice">
+          <h3>Venice &amp; Nokomis, FL</h3>
+          <p>Northern Italian Renaissance-planned streets, Venice Island homes and the Casey Key waterfront.</p>
           <span class="card-link">View Area →</span>
         </a>
+        <a class="card service-card" href="/locations/sarasota">
+          <h3>Sarasota, FL</h3>
+          <p>Downtown condos, historic bungalows, and the Siesta Key arts &amp; beach lifestyle.</p>
+          <span class="card-link">View Area →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+  <section class="section band-sky">
+    <div class="container">
+      <div class="prose" style="max-width:780px;margin-inline:auto;">
+        <h2>Where Our Interior Designers Work</h2>
+        <p>Our studio sits in Charlotte Harbor, on the north shore of the Peace River across from downtown Punta Gorda, so Punta Gorda, Port Charlotte and Charlotte Harbor homes are a short drive away. Every project starts with an in-home consultation, and your selections are presented as real samples laid out in our studio, not just mood boards.</p>
+        <p>We also take on interior design and renovation work in Cape Coral, Nokomis and the rest of Charlotte, Sarasota and Lee Counties. If your home is not on the list above, call us: the initial consultation is free, a $250 value, and it is the quickest way to find out whether we are the right fit.</p>
       </div>
     </div>
   </section>

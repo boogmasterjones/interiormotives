@@ -6,12 +6,12 @@
 /index                                                       /                                                  301!
 /locations-boca-grande.html                                  /locations/boca-grande                             301!
 /locations-boca-grande                                       /locations/boca-grande                             301!
-/locations-cape-coral.html                                   /locations/cape-coral                              301!
-/locations-cape-coral                                        /locations/cape-coral                              301!
+/locations-cape-coral.html                                   /locations                                           301!
+/locations-cape-coral                                        /locations                                           301!
 /locations-englewood.html                                    /locations/englewood                               301!
 /locations-englewood                                         /locations/englewood                               301!
-/locations-nokomis.html                                      /locations/nokomis                                 301!
-/locations-nokomis                                           /locations/nokomis                                 301!
+/locations-nokomis.html                                      /locations/venice                                     301!
+/locations-nokomis                                           /locations/venice                                     301!
 /locations-north-port.html                                   /locations/north-port                              301!
 /locations-north-port                                        /locations/north-port                              301!
 /locations-port-charlotte.html                               /locations/port-charlotte                          301!
@@ -55,3 +55,8 @@
 /team.html                                                   /team                                              301!
 /thank-you.html                                              /thank-you                                         301!
 
+# 2026-10-30: location pages cut to the playbook maximum of seven. Nokomis is covered on the Venice page; Cape Coral on the service-area page.
+/locations/nokomis                                           /locations/venice                                  301!
+/locations/nokomis.html                                      /locations/venice                                  301!
+/locations/cape-coral                                        /locations                                         301!
+/locations/cape-coral.html                                   /locations                                         301!

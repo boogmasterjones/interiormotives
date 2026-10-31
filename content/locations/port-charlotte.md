@@ -4,7 +4,7 @@ description: "Interior design and renovation in Port Charlotte, FL. 20+ years, 5
 name: "Port Charlotte, FL"
 heading: "Interior Designer in Port Charlotte, FL"
 summary: "Port Charlotte was laid out in the 1950s around an extensive canal system, and many of its homes are classic Florida ranch-style waterfront properties — we design with that layout and lifestyle in…"
-order: 6
+order: 2
 city: "Port Charlotte"
 region: "FL"
 ---
@@ -58,10 +58,8 @@ region: "FL"
         <a class="btn" style="justify-content:center;" href="/locations/venice">Venice</a>
         <a class="btn" style="justify-content:center;" href="/locations/north-port">North Port</a>
         <a class="btn" style="justify-content:center;" href="/locations/punta-gorda">Punta Gorda</a>
-        <a class="btn" style="justify-content:center;" href="/locations/cape-coral">Cape Coral</a>
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/boca-grande">Boca Grande</a>
-        <a class="btn" style="justify-content:center;" href="/locations/nokomis">Nokomis</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
       </div>
     </div>

@@ -4,7 +4,7 @@ description: "Interior design and renovation for Boca Grande and Gasparilla Isla
 name: "Boca Grande, FL"
 heading: "Interior Designer in Boca Grande, FL"
 summary: "Classic island homes deserve a light touch. We design and renovate Boca Grande residences that feel collected, relaxed, and right at home on Gasparilla Island."
-order: 8
+order: 5
 city: "Boca Grande"
 region: "FL"
 ---
@@ -55,13 +55,11 @@ region: "FL"
       </div>
       <div class="grid grid-4">
         <a class="btn" style="justify-content:center;" href="/locations/sarasota">Sarasota</a>
-        <a class="btn" style="justify-content:center;" href="/locations/nokomis">Nokomis</a>
         <a class="btn" style="justify-content:center;" href="/locations/venice">Venice</a>
         <a class="btn" style="justify-content:center;" href="/locations/englewood">Englewood</a>
         <a class="btn" style="justify-content:center;" href="/locations/north-port">North Port</a>
         <a class="btn" style="justify-content:center;" href="/locations/port-charlotte">Port Charlotte</a>
         <a class="btn" style="justify-content:center;" href="/locations/punta-gorda">Punta Gorda</a>
-        <a class="btn" style="justify-content:center;" href="/locations/cape-coral">Cape Coral</a>
         <a class="btn btn-secondary" style="justify-content:center;" href="/locations">View All Areas</a>
       </div>
     </div>
