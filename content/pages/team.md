@@ -4,6 +4,7 @@ description: "Meet Holly, Lori and Margaret, the owner-led team behind Interior 
 heading: "Meet the Interior Motives Design Team"
 subheading: "A small, owner-led studio in Charlotte Harbor: Holly and Lori, two designers who've each run their own firms, and Margaret, a design coordinator who came to interiors by way of residential drafting."
 path: "/team"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">

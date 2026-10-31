@@ -4,6 +4,7 @@ description: "Finished interiors and before-and-after renovations by Interior Mo
 heading: "Interior Design Across Punta Gorda & Southwest Florida"
 subheading: "A selection of finished rooms and before-and-after renovations from our work across Charlotte, Sarasota, and Lee Counties. Click any photo to enlarge."
 path: "/portfolio"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">

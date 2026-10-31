@@ -5,6 +5,7 @@ heading: "Punta Gorda Interior Design. Inspired by You."
 subheading: "An owner-led design studio in Charlotte Harbor, creating homes across Punta Gorda, Port Charlotte, Sarasota, and the Gulf Coast — from a single room to the whole house."
 path: "/"
 bodyClass: "home"
+updatedAt: 2026-10-30
 ---
 
 <section class="hero hero-logo">

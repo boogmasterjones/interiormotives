@@ -26,7 +26,7 @@ const services = defineCollection({ loader: glob({ base: './content/services', p
 const locations = defineCollection({ loader: glob({ base: './content/locations', pattern: '*.md' }), schema: z.object({ ...landing, city: z.string().min(2), region: z.string().length(2), population: z.string().max(30).optional(), nearby: z.array(z.string()).max(3).default([]) }).refine(requiresAlt, altMessage) });
 const pages = defineCollection({
   loader: glob({ base: './content/pages', pattern: '*.md' }),
-  schema: z.object({ ...seo, ...media, heading: z.string().min(3), subheading: z.string().optional(), path: z.string().regex(/^\/[a-z0-9/-]*$/), bodyClass: z.string().optional(), noindex: z.boolean().default(false), faqs: z.array(faq).default([]) }).refine(requiresAlt, altMessage),
+  schema: z.object({ ...seo, ...media, heading: z.string().min(3), subheading: z.string().optional(), path: z.string().regex(/^\/[a-z0-9/-]*$/), bodyClass: z.string().optional(), noindex: z.boolean().default(false), updatedAt: z.coerce.date().optional(), faqs: z.array(faq).default([]) }).refine(requiresAlt, altMessage),
 });
 
 export const collections = { blog, services, locations, pages };

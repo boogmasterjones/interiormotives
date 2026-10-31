@@ -4,6 +4,7 @@ description: "Interior design, space planning, color, kitchen & bath and new con
 heading: "Interior Design & Renovation, Under One Roof"
 subheading: "Whether you need a single room reimagined or a whole home built from the ground up, our team carries the project from concept through construction."
 path: "/services"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">

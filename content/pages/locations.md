@@ -4,6 +4,7 @@ description: "Interior design and renovation from our Charlotte Harbor studio fo
 heading: "Interior Design Across Charlotte, Sarasota & Lee Counties"
 subheading: "From our studio in Charlotte Harbor, Punta Gorda, we design and renovate homes from Boca Grande to Sarasota, with Punta Gorda and Port Charlotte right on our doorstep."
 path: "/locations"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">

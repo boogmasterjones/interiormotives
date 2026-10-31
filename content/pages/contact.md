@@ -13,6 +13,7 @@ faqs:
     answer: "Yes. We design and renovate homes across Charlotte, Sarasota and Lee Counties, including Port Charlotte, North Port, Englewood, Boca Grande, Venice, Nokomis, Sarasota and Cape Coral."
   - question: "Is it a problem if my project is small?"
     answer: "No. We take on everything from a single room to the whole house, and the consultation is the best way to decide the right scope together."
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">

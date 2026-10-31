@@ -4,6 +4,7 @@ description: "Meet the owner-led interior design and renovation studio in Charlo
 heading: "20+ Years of Southwest Florida Interior Design & Renovation"
 subheading: "Interior Motives Design is an owner-led studio in Charlotte Harbor helping Southwest Florida homeowners turn houses into homes they love — from a single-room refresh to a whole-home renovation."
 path: "/about"
+updatedAt: 2026-10-30
 ---
 
 <section class="page-hero has-image">
