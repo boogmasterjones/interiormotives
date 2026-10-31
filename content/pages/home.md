@@ -48,7 +48,7 @@ updatedAt: 2026-10-30
       </div>
     </div>
     <div class="container">
-      <ul class="work-carousel">
+      <ul class="work-carousel" tabindex="0" aria-label="Recent work">
         <li class="work-card">
           <div class="work-card-image"><img src="/images/portfolio/dining-wine-wall.jpg" alt="Dining room with a glass-front wine wall and cascading pendant lights" loading="lazy"></div>
           <div class="work-card-body"><h3>Dining &amp; Wine Wall</h3><p>Full-Home Design</p></div>
@@ -100,11 +100,11 @@ updatedAt: 2026-10-30
         <h2 style="margin-bottom:1.25rem;">Request a Consultation</h2>
         <div class="form-progress" aria-hidden="true"><span></span><span></span><span></span><span></span><small>Step 1 of 4</small></div>
         <div class="form-step">
-          <span class="field-label">Your Name *</span>
-          <input type="text" name="name" placeholder="Full Name" required="" autocomplete="name">
-          <span class="field-label">How Can We Reach You? *</span>
+          <span class="field-label" id="qf-name-label">Your Name *</span>
+          <input type="text" name="name" aria-labelledby="qf-name-label" placeholder="Full Name" required="" autocomplete="name">
+          <span class="field-label" id="qf-reach-label">How Can We Reach You? *</span>
           <p class="field-hint">Phone or email — whichever you prefer.</p>
-          <div class="field-row">
+          <div class="field-row" role="group" aria-labelledby="qf-reach-label">
             <input type="tel" name="phone" placeholder="Phone" autocomplete="tel" aria-label="Phone">
             <input type="email" name="email" placeholder="Email" autocomplete="email" aria-label="Email">
           </div>
@@ -113,8 +113,8 @@ updatedAt: 2026-10-30
           <p class="step-hint">Tell us who you are and a few more questions will appear.</p>
         </div>
         <div class="form-step" hidden="">
-          <span class="field-label">Where Is the Project?</span>
-          <select name="service-area">
+          <span class="field-label" id="qf-area-label">Where Is the Project?</span>
+          <select name="service-area" aria-labelledby="qf-area-label">
             <option value="" disabled="" selected="">City / Service Area</option>
             <option>Charlotte Harbor</option>
             <option>Punta Gorda</option>
@@ -140,8 +140,8 @@ updatedAt: 2026-10-30
             <option>Saw our work in someone's home</option>
             <option>Other</option>
           </select>
-          <span class="field-label">What Can We Help With?</span>
-          <div class="check-grid">
+          <span class="field-label" id="qf-services-label">What Can We Help With?</span>
+          <div class="check-grid" role="group" aria-labelledby="qf-services-label">
             <label class="check-item"><input type="checkbox" name="service[]" value="Interior Design"> Interior Design</label>
             <label class="check-item"><input type="checkbox" name="service[]" value="Space Planning"> Space Planning</label>
             <label class="check-item"><input type="checkbox" name="service[]" value="Color Consultation"> Color Consultation</label>
@@ -154,23 +154,23 @@ updatedAt: 2026-10-30
           <p class="step-hint">Pick a city and at least one service to continue.</p>
         </div>
         <div class="form-step" hidden="">
-          <span class="field-label">When Would You Like to Start?</span>
-          <div class="radio-grid">
+          <span class="field-label" id="qf-timing-label">When Would You Like to Start?</span>
+          <div class="radio-grid" role="radiogroup" aria-labelledby="qf-timing-label">
             <label class="radio-item"><input type="radio" name="timing" value="Timing is flexible"> Timing is Flexible</label>
             <label class="radio-item"><input type="radio" name="timing" value="Within 1 month"> Within 1 Month</label>
             <label class="radio-item"><input type="radio" name="timing" value="1 to 3 months"> 1–3 Months</label>
             <label class="radio-item"><input type="radio" name="timing" value="More than 3 months"> More Than 3 Months</label>
           </div>
-          <span class="field-label">Project Status</span>
-          <div class="radio-grid">
+          <span class="field-label" id="qf-status-label">Project Status</span>
+          <div class="radio-grid" role="radiogroup" aria-labelledby="qf-status-label">
             <label class="radio-item"><input type="radio" name="status" value="Ready to book a consultation"> Ready to Book</label>
             <label class="radio-item"><input type="radio" name="status" value="Just exploring ideas"> Just Exploring Ideas</label>
           </div>
           <p class="step-hint">Almost there — one last question.</p>
         </div>
         <div class="form-step" hidden="">
-          <span class="field-label">Tell Us About Your Project</span>
-          <textarea name="message" id="message" placeholder="Rooms involved, the style you're drawn to, a rough budget range, anything else we should know."></textarea>
+          <span class="field-label" id="qf-message-label">Tell Us About Your Project</span>
+          <textarea name="message" id="message" aria-labelledby="qf-message-label" placeholder="Rooms involved, the style you're drawn to, a rough budget range, anything else we should know."></textarea>
         </div>
         <button type="submit" class="btn btn-primary btn-lg">Send My Request</button>
         <p class="form-privacy">We'll only use your details to follow up about your project.</p>
@@ -216,7 +216,7 @@ updatedAt: 2026-10-30
         <h2>What Our Clients Say</h2>
         <p class="lede" style="margin-inline:auto;">Word for word, from our Google listing.</p>
       </div>
-      <div class="grid grid-2 review-grid">
+      <div class="grid grid-2 review-grid" tabindex="0" role="region" aria-label="Customer reviews">
         <figure class="review-card">
           <div class="review-stars" role="img" aria-label="5 out of 5 stars">
             <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>

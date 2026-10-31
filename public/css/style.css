@@ -323,6 +323,8 @@ body.home .site-header {
 }
 
 body.home .site-header.header-visible { transform: translateY(0); }
+/* Keyboard focus inside the hidden homepage header brings it into view */
+body.home .site-header:focus-within { transform: translateY(0); }
 
 .site-header .container {
   display: flex;
@@ -1300,7 +1302,8 @@ body.home .site-header.header-visible { transform: translateY(0); }
   border-bottom: 1px solid var(--color-on-dark-15);
 }
 
-.footer-grid h4 {
+.footer-grid .footer-title {
+  line-height: 1.12;
   color: var(--color-brass);
   font-family: var(--font-accent);
   font-weight: 500;
@@ -1804,7 +1807,7 @@ body.home .site-header.header-visible { transform: translateY(0); }
   .site-footer { padding-block: 2.5rem 1rem; }
   .footer-grid { grid-template-columns: 1fr 1fr; padding-bottom: 1.5rem; gap: 1.5rem 1rem; }
   .footer-grid > :first-child { grid-column: 1 / -1; }
-  .footer-grid h4 { margin-bottom: 0.6rem; }
+  .footer-grid .footer-title { margin-bottom: 0.6rem; }
   .footer-grid ul { gap: 0.4rem; font-size: 0.85rem; }
   .footer-logo img { height: 52px; }
   .footer-bottom { padding-top: 1rem; font-size: 0.7rem; }
@@ -1818,3 +1821,24 @@ body.home .site-header.header-visible { transform: translateY(0); }
 .page-hero.legal-hero { min-height: 0; }
 .legal-body ul { list-style: disc; padding-left: 1.25rem; margin-bottom: 1rem; }
 .legal-body p, .legal-body li { margin-bottom: 0.6rem; }
+
+/* ==========================================================================
+   Phone links: tap targets at least 44px tall, without changing the look
+   ========================================================================== */
+
+/* Header call pill: transparent top/bottom border grows the tap area; the background stays the same size
+   (background-clip) and the negative margin keeps the header layout unchanged. */
+.header-call {
+  border-block: 5px solid transparent;
+  background-clip: padding-box;
+  margin-block: -5px;
+}
+
+/* Inline phone numbers: vertical padding on an inline link grows the hit box without moving any text. */
+.contact-list a[href^="tel:"] { padding-block: 13px; }
+.footer-address a[href^="tel:"] { padding-block: 26px 2px; }
+
+@media (max-width: 640px) {
+  /* Call buttons were 42.7px tall on phones: grow to 44px, the negative margin absorbs it so nothing below moves */
+  .btn-primary[href^="tel:"]:not(.btn-lg):not(.hero .btn):not(.page-hero .btn) { min-height: 44px; margin-block: -0.65px; }
+}

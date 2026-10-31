@@ -49,8 +49,9 @@ const mainPhone = site.business.phone.replace(/[^0-9]/g, '').slice(-10);
     <style is:inline>picture{display:contents}</style>
   </head>
   <body class={bodyClass} data-main-phone={mainPhone}>
+    <a class="skip-link" href="#main">Skip to content</a>
     <Header />
-    <main>
+    <main id="main">
       <slot />
     </main>
     <Footer />

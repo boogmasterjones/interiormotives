@@ -16,7 +16,7 @@ const locations = await getLocations();
         <p class="footer-address">{name}<br>{address.street}<br>{address.city}, {address.region} {address.postalCode}<br><a href={phoneHref(phone)}>{phone}</a><br><a href={`mailto:${email}`}>{email}</a></p>
       </div>
       <div>
-        <h4>Services</h4>
+        <h2 class="footer-title">Services</h2>
         <ul>
           <li><a href="/services/interior-design">Interior Design</a></li>
           <li><a href="/services/space-planning">Space Planning</a></li>
@@ -26,7 +26,7 @@ const locations = await getLocations();
         </ul>
       </div>
       <div>
-        <h4>Design Details</h4>
+        <h2 class="footer-title">Design Details</h2>
         <ul>
           <li><a href="/services/custom-fabrics">Custom Fabrics</a></li>
           <li><a href="/services/upholstery-bedding">Upholstery &amp; Bedding</a></li>
@@ -39,14 +39,14 @@ const locations = await getLocations();
         </ul>
       </div>
       <div>
-        <h4>Service Area</h4>
+        <h2 class="footer-title">Service Area</h2>
         <ul>
           {locations.map((l) => <li><a href={`/locations/${l.id}`}>{l.data.name}</a></li>)}
           <li><a href="/locations">All service areas</a></li>
         </ul>
       </div>
       <div>
-        <h4>Company</h4>
+        <h2 class="footer-title">Company</h2>
         <ul>
           <li><a href="/about">About Us</a></li>
           <li><a href="/team">Meet the Team</a></li>
