@@ -163,6 +163,8 @@ updatedAt: 2026-10-30
         <h2>Looking for an Interior Designer Near You?</h2>
         <p>If you are searching for an interior designer near Punta Gorda, Port Charlotte or Charlotte Harbor, we are local, and we design whole homes as well as single rooms. A full-home project might cover the layout, color palette, finishes, furniture, lighting, window treatments, rugs and art; a smaller one might be a living room refresh or a primary suite that finally feels finished.</p>
         <p>Either way, the work starts the same way: a conversation in your home about how you live, what is not working, and the style you are drawn to. From there we put together layouts, palettes and selections for your review, refine them with you, and then source, coordinate and, where the design calls for it, renovate to make the plan real.</p>
+        <h3>Bedroom design in Punta Gorda</h3>
+        <p>Bedrooms get the same care as the rooms guests see. For a primary suite or a guest room in Punta Gorda or Port Charlotte, we plan the layout and furniture, choose the wall color or <a href="/services/wallcoverings">wallpaper</a>, add <a href="/services/window-treatments">window treatments</a> with blackout where you need it, and pull the room together with a <a href="/services/upholstery-bedding">custom headboard and breathable, layered bedding</a>. You can see finished bedrooms in our <a href="/portfolio">portfolio</a>.</p>
         <h3>Interior design services we offer</h3>
         <ul>
           <li>Whole-home interior design and single-room redesigns</li>
