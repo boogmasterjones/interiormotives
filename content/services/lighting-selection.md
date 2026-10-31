@@ -1,8 +1,8 @@
 ---
-title: "Lighting & Accessories Selection in SWFL | Interior Motives"
-description: "Lighting plans, fixture selection, and finishing accessories for Southwest Florida homes — chandeliers, pendants, sconces, lamps, and mirrors."
+title: "Residential Lighting Design & Selection in Punta Gorda, FL"
+description: "Residential lighting plans and fixture selection for Punta Gorda and SWFL homes: chandeliers, pendants, sconces, lamps and the accessories that finish a room."
 name: "Lighting & Accessories"
-heading: "Lighting & Accessories"
+heading: "Residential Lighting & Accessories in Punta Gorda"
 summary: "Chandeliers, pendants, sconces, and lamps — plus the mirrors and accessories that make a finished room feel finished."
 order: 10
 faqs:
@@ -17,7 +17,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Lighting &amp; Accessories</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Lighting &amp; Accessories</h1>
+        <h1>Residential Lighting &amp; Accessories in Punta Gorda</h1>
         <p class="lede">Chandeliers, pendants, sconces, and lamps — plus the mirrors and accessories that make a finished room feel finished.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

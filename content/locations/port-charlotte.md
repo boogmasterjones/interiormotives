@@ -1,6 +1,6 @@
 ---
 title: "Interior Designer in Port Charlotte, FL | Interior Motives"
-description: "Interior design and renovation in Port Charlotte, FL. 20+ years, 500+ projects completed, licensed. Serving canal-front and waterfront homes."
+description: "Interior design and renovation in Port Charlotte, FL, just across the Peace River from our Charlotte Harbor studio. Canal-front homes. 20+ years, 500+ projects."
 name: "Port Charlotte, FL"
 heading: "Interior Designer in Port Charlotte, FL"
 summary: "Port Charlotte was laid out in the 1950s around an extensive canal system, and many of its homes are classic Florida ranch-style waterfront properties — we design with that layout and lifestyle in…"

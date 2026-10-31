@@ -1,8 +1,8 @@
 ---
-title: "Upholstery & Custom Bedding in SWFL | Interior Motives"
-description: "Reupholstery, custom headboards, and layered bedding for Southwest Florida homes. Keep the pieces worth keeping — free initial consultation."
+title: "Upholstery & Custom Bedding in Punta Gorda, FL"
+description: "Reupholstery, custom headboards and layered bedding for Punta Gorda and Port Charlotte homes. Keep the pieces worth keeping. Free initial consultation."
 name: "Upholstery & Bedding"
-heading: "Upholstery & Bedding"
+heading: "Upholstery & Bedding in Punta Gorda & Southwest Florida"
 summary: "New upholstery for the pieces worth keeping, custom headboards and benches, and layered bedding that finally pulls a bedroom together."
 order: 7
 faqs:
@@ -17,7 +17,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Upholstery &amp; Bedding</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Upholstery &amp; Bedding</h1>
+        <h1>Upholstery &amp; Bedding in Punta Gorda &amp; Southwest Florida</h1>
         <p class="lede">New upholstery for the pieces worth keeping, custom headboards and benches, and layered bedding that finally pulls a bedroom together.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

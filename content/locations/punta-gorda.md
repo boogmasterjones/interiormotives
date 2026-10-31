@@ -1,6 +1,6 @@
 ---
 title: "Interior Designer in Punta Gorda, FL | Interior Motives"
-description: "Interior design and renovation in Punta Gorda, FL. 20+ years, 500+ projects completed, licensed. Serving historic downtown to Charlotte Harbor homes."
+description: "Interior design and renovation in Punta Gorda, FL, from our Charlotte Harbor studio: downtown, Punta Gorda Isles and Burnt Store homes. 20+ years, 500+ projects."
 name: "Punta Gorda, FL"
 heading: "Interior Designer in Punta Gorda, FL"
 summary: "Punta Gorda pairs a walkable historic downtown on Charlotte Harbor with newer waterfront neighborhoods — two very different design conversations, and we're comfortable having both."

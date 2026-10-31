@@ -1,8 +1,8 @@
 ---
-title: "Art Selection & Styling in SWFL | Interior Motives"
-description: "Art selection, accessories, and final styling for Southwest Florida homes — mirrors, decor, and the finishing layer that makes a house personal."
+title: "Art Selection & Home Styling in Punta Gorda, FL"
+description: "Art selection, accessories and final styling for Punta Gorda and SWFL homes: mirrors, decor and the finishing layer that makes a house personal."
 name: "Art Selection & Styling"
-heading: "Art Selection & Styling"
+heading: "Art Selection & Styling in Punta Gorda"
 summary: "Artwork, mirrors, sculpture, and accessories — the finishing layer that turns a well-furnished room into a personal one."
 order: 13
 faqs:
@@ -17,7 +17,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Art &amp; Styling</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Art Selection &amp; Styling</h1>
+        <h1>Art Selection &amp; Styling in Punta Gorda</h1>
         <p class="lede">Artwork, mirrors, sculpture, and accessories — the finishing layer that turns a well-furnished room into a personal one.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

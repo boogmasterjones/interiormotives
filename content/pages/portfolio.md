@@ -1,7 +1,7 @@
 ---
-title: "Portfolio | Interior Motives Design, Southwest Florida"
-description: "Browse finished interiors and before-and-after renovations by Interior Motives Design — living rooms, kitchens, bedrooms, and outdoor spaces across Southwest Florida."
-heading: "Interiors Across Southwest Florida"
+title: "Interior Design Portfolio | Punta Gorda & Southwest Florida"
+description: "Finished interiors and before-and-after renovations by Interior Motives Design: living rooms, kitchens, bedrooms and lanais in Punta Gorda and SWFL."
+heading: "Interior Design Across Punta Gorda & Southwest Florida"
 subheading: "A selection of finished rooms and before-and-after renovations from our work across Charlotte, Sarasota, and Lee Counties. Click any photo to enlarge."
 path: "/portfolio"
 ---
@@ -11,7 +11,7 @@ path: "/portfolio"
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › Portfolio</p>
         <p class="eyebrow">Portfolio</p>
-        <h1>Interiors Across Southwest Florida</h1>
+        <h1>Interior Design Across Punta Gorda &amp; Southwest Florida</h1>
         <p class="lede">A selection of finished rooms and before-and-after renovations from our work across Charlotte, Sarasota, and Lee Counties. Click any photo to enlarge.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact">Request a Consultation</a>

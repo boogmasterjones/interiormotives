@@ -1,6 +1,6 @@
 ---
 title: "Interior Designer in Sarasota, FL | Interior Motives"
-description: "Interior design and renovation in Sarasota, FL. 20+ years, 500+ projects completed, licensed. Serving downtown condos to Siesta Key homes."
+description: "Interior design and renovation in Sarasota, FL, from downtown condos to Siesta Key homes. Owner-led studio, 20+ years and 500+ projects completed."
 name: "Sarasota, FL"
 heading: "Interior Designer in Sarasota, FL"
 summary: "From historic bungalows near downtown to condos overlooking Sarasota Bay, we design and renovate homes that fit the way Sarasota actually lives."

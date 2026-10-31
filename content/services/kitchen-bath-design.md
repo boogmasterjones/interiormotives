@@ -1,8 +1,8 @@
 ---
-title: "Kitchen & Bath Design in SWFL | Interior Motives"
-description: "Kitchen and bathroom design and renovation across Southwest Florida. 20+ years, 500+ projects completed, licensed. Book a free consultation today."
+title: "Kitchen & Bath Design in Punta Gorda & Port Charlotte, FL"
+description: "Kitchen and bathroom design and renovation for Punta Gorda, Port Charlotte and Charlotte Harbor homes, one team from layout to finish. 20+ years."
 name: "Kitchen & Bath Design"
-heading: "Kitchen & Bath Design"
+heading: "Kitchen & Bath Design in Punta Gorda & Port Charlotte"
 summary: "Layout, cabinetry, and finish planning for the two rooms that matter most to daily life and resale value — done right the first time."
 order: 4
 ---
@@ -12,7 +12,7 @@ order: 4
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Kitchen &amp; Bath Design</p>
       <p class="eyebrow">Service</p>
-      <h1>Kitchen &amp; Bath Design</h1>
+      <h1>Kitchen &amp; Bath Design in Punta Gorda &amp; Port Charlotte</h1>
       <p class="lede">Layout, cabinetry, and finish planning for the two rooms that matter most to daily life and resale value — done right the first time.</p>
       <div class="cta-pair">
         <a class="btn btn-primary" href="tel:+19414564136">

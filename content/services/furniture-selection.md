@@ -1,8 +1,8 @@
 ---
-title: "Indoor & Outdoor Furniture Selection in SWFL | Interior Motives"
-description: "Furniture selection and sourcing for Southwest Florida homes — indoor rooms and lanai alike, scaled to your space, delivered and placed."
+title: "Indoor & Outdoor Furniture Selection in Punta Gorda, FL"
+description: "Furniture selection for Punta Gorda and SWFL homes, indoor rooms and lanai alike: scaled to your space, then ordered, received, delivered and placed."
 name: "Indoor & Outdoor Furniture"
-heading: "Indoor & Outdoor Furniture"
+heading: "Indoor & Outdoor Furniture for Punta Gorda Homes"
 summary: "Sofas, dining sets, beds, and lanai furniture chosen to fit your rooms, your household, and the way you actually live — then ordered, delivered, and placed."
 order: 8
 faqs:
@@ -19,7 +19,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Indoor &amp; Outdoor Furniture</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Indoor &amp; Outdoor Furniture</h1>
+        <h1>Indoor &amp; Outdoor Furniture for Punta Gorda Homes</h1>
         <p class="lede">Sofas, dining sets, beds, and lanai furniture chosen to fit your rooms, your household, and the way you actually live — then ordered, delivered, and placed.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

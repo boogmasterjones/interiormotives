@@ -1,7 +1,7 @@
 ---
-title: "Interior Design & Renovation Services | Interior Motives"
-description: "Interior design, space planning, color consultation, kitchen & bath design, and custom home building across Southwest Florida. Licensed, 20+ years."
-heading: "Design and Renovation, Under One Roof"
+title: "Interior Design & Renovation Services in Punta Gorda, FL"
+description: "Interior design, space planning, color, kitchen & bath and new construction design for Punta Gorda, Port Charlotte and SWFL homes. 20+ years, 500+ projects."
+heading: "Interior Design & Renovation, Under One Roof"
 subheading: "Whether you need a single room reimagined or a whole home built from the ground up, our team carries the project from concept through construction."
 path: "/services"
 ---
@@ -11,7 +11,7 @@ path: "/services"
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › Services</p>
       <p class="eyebrow">Services</p>
-      <h1>Design and Renovation, Under One Roof</h1>
+      <h1>Interior Design &amp; Renovation, Under One Roof</h1>
       <p class="lede">Whether you need a single room reimagined or a whole home built from the ground up, our team carries the project from concept through construction.</p>
     </div>
       <div class="img-frame"><img src="/images/portfolio/studio-material-selections.jpg" alt="Fabric, rug, and wallcovering selections laid out in the studio" loading="eager"></div>

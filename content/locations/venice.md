@@ -1,8 +1,8 @@
 ---
-title: "Interior Designer in Venice, FL | Interior Motives"
-description: "Interior design and renovation in Venice, FL. 20+ years, 500+ projects completed, licensed. Serving historic Venice Island to newer coastal homes."
-name: "Venice, FL"
-heading: "Interior Designer in Venice, FL"
+title: "Interior Designer in Venice & Nokomis, FL | Interior Motives"
+description: "Interior design and renovation in Venice and Nokomis, FL, from historic Venice Island to Casey Key waterfront homes. 20+ years, 500+ projects completed."
+name: "Venice & Nokomis, FL"
+heading: "Interior Designer in Venice & Nokomis, FL"
 summary: "Venice was master-planned in the 1920s with a distinct Northern Italian Renaissance character, and its historic homes still carry that character today — we design with it, not against it."
 order: 6
 city: "Venice"
@@ -14,7 +14,7 @@ region: "FL"
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › <a href="/locations">Service Area</a> › Venice</p>
       <p class="eyebrow">Service Area</p>
-      <h1>Interior Designer in Venice, FL</h1>
+      <h1>Interior Designer in Venice &amp; Nokomis, FL</h1>
       <p class="lede">Venice was master-planned in the 1920s with a distinct Northern Italian Renaissance character, and its historic homes still carry that character today — we design with it, not against it.</p>
       <div class="cta-pair">
         <a class="btn btn-primary" href="tel:+19414564136">Call (941) 456-4136</a>

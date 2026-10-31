@@ -1,6 +1,6 @@
 ---
-title: "About Interior Motives Design | SWFL Design & Renovation"
-description: "Owner-led interior design and renovation studio in Charlotte Harbor, FL. 20+ years and 500+ projects across Southwest Florida — from a single room to a whole home."
+title: "About Our Punta Gorda Interior Design & Renovation Studio"
+description: "Meet the owner-led interior design and renovation studio in Charlotte Harbor, Punta Gorda: 20+ years and 500+ projects across Southwest Florida homes."
 heading: "20+ Years of Southwest Florida Interior Design & Renovation"
 subheading: "Interior Motives Design is an owner-led studio in Charlotte Harbor helping Southwest Florida homeowners turn houses into homes they love — from a single-room refresh to a whole-home renovation."
 path: "/about"
@@ -28,7 +28,7 @@ path: "/about"
       <div>
         <p class="eyebrow">Our Approach</p>
         <h2>Design and Renovation, Start to Finish</h2>
-        <p class="lede" style="margin-block:1.25rem;">We're a licensed interior design and renovation studio serving Charlotte Harbor, Punta Gorda, Sarasota, and the surrounding Gulf Coast. Unlike a design-only studio, we carry projects all the way through — from the first layout sketch to the last installed piece — and unlike a general contractor, design is baked into everything we build, not bolted on afterward.</p>
+        <p class="lede" style="margin-block:1.25rem;">We're an owner-led interior design and renovation studio in Charlotte Harbor, Punta Gorda, serving Port Charlotte, Sarasota, and the surrounding Gulf Coast. Unlike a design-only studio, we carry projects all the way through — from the first layout sketch to the last installed piece — and unlike a general contractor, design is baked into everything we build, not bolted on afterward.</p>
         <p class="lede" style="margin-bottom:1.25rem;">Over 500 completed projects later, that combination is still what sets us apart: one team accountable for how a space looks and how it's built.</p>
         <p class="lede">The studio is owned and run by two working designers, Holly and Lori, who between them have decades of experience owning and operating design firms across Florida. <a class="text-link" href="/team">Meet the team →</a></p>
       </div>
@@ -52,7 +52,7 @@ path: "/about"
       <div class="grid grid-3 stats-grid" style="margin-bottom:0;">
         <div class="card stat-card"><span class="stat-number">20+</span><span class="stat-label">Years in Business</span></div>
         <div class="card stat-card"><span class="stat-number">500+</span><span class="stat-label">Projects Completed</span></div>
-        <div class="card stat-card"><span class="stat-number">Licensed</span><span class="stat-label">Southwest Florida</span></div>
+        <div class="card stat-card"><span class="stat-number">Owner-Led</span><span class="stat-label">Holly &amp; Lori</span></div>
       </div>
     </div>
   </section>

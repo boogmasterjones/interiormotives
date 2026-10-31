@@ -1,7 +1,7 @@
 ---
-title: "Contact Interior Motives Design | Charlotte Harbor, FL"
-description: "Request a free design consultation with Interior Motives Design in Charlotte Harbor, FL. Call (941) 456-4136 or send the form — serving Southwest Florida."
-heading: "Contact Interior Motives Design"
+title: "Contact Interior Motives Design, Punta Gorda Interior Designers"
+description: "Book a free initial consultation ($250 value) with Interior Motives Design, interior designers in Charlotte Harbor, Punta Gorda. Call (941) 456-4136."
+heading: "Contact Our Punta Gorda Interior Design Studio"
 subheading: "Send the form, call, or email — the initial consultation is complimentary, a $250 value. We meet by appointment at your home or at the studio in Charlotte Harbor."
 path: "/contact"
 ---
@@ -11,7 +11,7 @@ path: "/contact"
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › Contact</p>
       <p class="eyebrow">Contact</p>
-      <h1>Contact Interior Motives Design</h1>
+      <h1>Contact Our Punta Gorda Interior Design Studio</h1>
       <p class="lede">Send the form, call, or email — the initial consultation is complimentary, a $250 value. We meet by appointment at your home or at the studio in Charlotte Harbor.</p>
       </div>
       <div class="img-frame"><img src="/images/team/holly-and-lori.jpg" alt="Holly and Lori reviewing wallcovering samples together in a design showroom" loading="eager"></div>

@@ -1,8 +1,8 @@
 ---
-title: "Space Planning Services in SWFL | Interior Motives"
-description: "Smart space planning and furniture layout across Southwest Florida. 20+ years, 500+ projects completed, licensed. Book a free consultation today."
+title: "Space Planning & Furniture Layout in Punta Gorda, FL"
+description: "Space planning and furniture layouts for Punta Gorda, Port Charlotte and SWFL homes, from open great rooms to awkward floor plans. 20+ years, 500+ projects."
 name: "Space Planning"
-heading: "Space Planning"
+heading: "Space Planning in Punta Gorda & Southwest Florida"
 summary: "Smart, livable layouts that make the most of your square footage — whether that's an open-concept great room or a tricky, oddly-shaped floor plan."
 order: 2
 ---
@@ -12,7 +12,7 @@ order: 2
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Space Planning</p>
       <p class="eyebrow">Service</p>
-      <h1>Space Planning</h1>
+      <h1>Space Planning in Punta Gorda &amp; Southwest Florida</h1>
       <p class="lede">Smart, livable layouts that make the most of your square footage — whether that's an open-concept great room or a tricky, oddly-shaped floor plan.</p>
       <div class="cta-pair">
         <a class="btn btn-primary" href="tel:+19414564136">

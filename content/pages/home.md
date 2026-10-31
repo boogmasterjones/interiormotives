@@ -1,7 +1,7 @@
 ---
-title: "Interior Motives Design | Interior Design & Renovation in SWFL"
-description: "Owner-led interior design and renovation studio in Charlotte Harbor serving Southwest Florida. 20+ years, 500+ projects. Free initial consultation — (941) 456-4136."
-heading: "Beautiful Spaces. Inspired by You."
+title: "Interior Motives Design | Interior Designer in Punta Gorda, FL"
+description: "Owner-led interior design and renovation studio in Charlotte Harbor, Punta Gorda, serving Port Charlotte and SWFL. 20+ years, 500+ projects. Free consultation."
+heading: "Punta Gorda Interior Design. Inspired by You."
 subheading: "An owner-led design studio in Charlotte Harbor, creating homes across Punta Gorda, Port Charlotte, Sarasota, and the Gulf Coast — from a single room to the whole house."
 path: "/"
 bodyClass: "home"
@@ -11,7 +11,7 @@ bodyClass: "home"
     <div class="container">
       <div class="hero-copy">
         <img class="hero-logo-mark" src="/images/brand/logo-white.png" alt="Interior Motives Design" width="316" height="190">
-        <h1>Beautiful Spaces. <span class="h1-accent">Inspired by You.</span></h1>
+        <h1>Punta Gorda Interior Design. <span class="h1-accent">Inspired by You.</span></h1>
         <p class="lede">An owner-led design studio in Charlotte Harbor, creating homes across Punta Gorda, Port Charlotte, Sarasota, and the Gulf Coast — from a single room to the whole house.</p>
         <div class="cta-pair">
           <a class="btn btn-brass btn-lg" href="#consultation">Request a Free Consultation</a>

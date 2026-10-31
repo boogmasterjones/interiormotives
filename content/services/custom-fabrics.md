@@ -1,8 +1,8 @@
 ---
-title: "Custom Fabrics & Drapery Fabric in SWFL | Interior Motives"
-description: "Custom fabric selection for Southwest Florida homes — drapery, pillows, cushions, and performance weaves chosen from trade lines and sewn to fit."
+title: "Custom Fabrics & Drapery Fabric in Punta Gorda, FL"
+description: "Custom fabric selection for Punta Gorda and SWFL homes: drapery, pillows, cushions and performance weaves from to-the-trade lines, sewn to fit."
 name: "Custom Fabrics"
-heading: "Custom Fabrics"
+heading: "Custom Fabrics in Punta Gorda & Southwest Florida"
 summary: "Drapery fabric, pillows, cushions, and table linens — chosen from to-the-trade lines and cut, sewn, and finished to fit your rooms."
 order: 6
 faqs:
@@ -17,7 +17,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Custom Fabrics</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Custom Fabrics</h1>
+        <h1>Custom Fabrics in Punta Gorda &amp; Southwest Florida</h1>
         <p class="lede">Drapery fabric, pillows, cushions, and table linens — chosen from to-the-trade lines and cut, sewn, and finished to fit your rooms.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

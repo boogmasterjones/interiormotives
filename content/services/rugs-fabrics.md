@@ -1,8 +1,8 @@
 ---
-title: "Area Rugs & Floor Coverings in SWFL | Interior Motives"
-description: "Area rug selection for Southwest Florida homes — sizing, custom cuts, natural fibers, and performance weaves that handle sand, sun, and traffic."
+title: "Area Rugs & Floor Coverings in Punta Gorda, FL"
+description: "Area rug selection for Punta Gorda and SWFL homes: sizing, custom cuts, natural fibers and performance weaves that handle sand, sun and traffic."
 name: "Rugs & Floor Coverings"
-heading: "Rugs & Floor Coverings"
+heading: "Area Rugs & Floor Coverings in Punta Gorda"
 summary: "Area rugs sized and layered for each room — wool, natural fibers, and performance weaves that stand up to sand, sun, and bare feet."
 order: 12
 faqs:
@@ -17,7 +17,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Rugs &amp; Floor Coverings</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Rugs &amp; Floor Coverings</h1>
+        <h1>Area Rugs &amp; Floor Coverings in Punta Gorda</h1>
         <p class="lede">Area rugs sized and layered for each room — wool, natural fibers, and performance weaves that stand up to sand, sun, and bare feet.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

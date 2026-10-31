@@ -1,8 +1,8 @@
 ---
-title: "Interior Design Services in SWFL | Interior Motives"
-description: "Full-room and full-house interior design in Southwest Florida. 20+ years, 500+ projects completed, licensed. Book a free design consultation today."
+title: "Interior Design Services in Punta Gorda & Port Charlotte, FL"
+description: "Full-room and whole-home interior design for Punta Gorda, Port Charlotte and Charlotte Harbor homes. 20+ years, 500+ projects. Free initial consultation."
 name: "Interior Design"
-heading: "Interior Design"
+heading: "Interior Design in Punta Gorda & Port Charlotte"
 summary: "Full-room and full-house design that turns your Southwest Florida home into a space that looks intentional, feels comfortable, and works for the way you actually live."
 order: 1
 ---
@@ -12,7 +12,7 @@ order: 1
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Interior Design</p>
       <p class="eyebrow">Service</p>
-      <h1>Interior Design</h1>
+      <h1>Interior Design in Punta Gorda &amp; Port Charlotte</h1>
       <p class="lede">Full-room and full-house design that turns your Southwest Florida home into a space that looks intentional, feels comfortable, and works for the way you actually live.</p>
       <div class="cta-pair">
         <a class="btn btn-primary" href="tel:+19414564136">

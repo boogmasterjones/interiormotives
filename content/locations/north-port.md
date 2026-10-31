@@ -1,6 +1,6 @@
 ---
 title: "Interior Designer in North Port, FL | Interior Motives"
-description: "Interior design and renovation in North Port, FL. 20+ years, 500+ projects completed, licensed. Serving one of the region's fastest-growing communities."
+description: "Interior design and renovation in North Port, FL, one of the fastest-growing cities in the region, full of newer homes. 20+ years and 500+ projects completed."
 name: "North Port, FL"
 heading: "Interior Designer in North Port, FL"
 summary: "North Port is one of Southwest Florida's fastest-growing cities, and its housing stock reflects that — mostly newer-construction homes where design decisions shape a blank canvas rather than update…"

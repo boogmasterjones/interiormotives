@@ -1,8 +1,8 @@
 ---
-title: "Wall Designs: Paper & Textures in SWFL | Interior Motives"
-description: "Wallpaper and wallcovering selection in Southwest Florida — grasscloth, textured vinyl, and pattern chosen for Florida light and humidity. Free consultation."
+title: "Wallpaper & Grasscloth Design in Punta Gorda & Port Charlotte"
+description: "Wallpaper and wallcovering design for Punta Gorda, Port Charlotte and SWFL homes: grasscloth, textured vinyl and pattern chosen for Florida humidity."
 name: "Wall Designs: Paper & Textures"
-heading: "Wall Designs: Paper & Textures"
+heading: "Wallpaper & Wall Textures in Punta Gorda & Port Charlotte"
 summary: "Grasscloth, textured vinyl, metallic papers, and bold pattern — chosen for the room, the light, and the Florida humidity, then coordinated through installation."
 order: 11
 faqs:
@@ -17,7 +17,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Wall Designs: Paper &amp; Textures</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Wall Designs: Paper &amp; Textures</h1>
+        <h1>Wallpaper &amp; Wall Textures in Punta Gorda &amp; Port Charlotte</h1>
         <p class="lede">Grasscloth, textured vinyl, metallic papers, and bold pattern — chosen for the room, the light, and the Florida humidity, then coordinated through installation.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

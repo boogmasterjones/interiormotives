@@ -1,8 +1,8 @@
 ---
-title: "Color Consultation Services in SWFL | Interior Motives"
-description: "Whole-home color and finish consultation across Southwest Florida. 20+ years, 500+ projects completed, licensed. Book a free consultation today."
+title: "Color Consultation in Punta Gorda & Port Charlotte, FL"
+description: "Whole-home color and finish consultation for Punta Gorda, Port Charlotte and SWFL homes, chosen to hold up in Florida light. 20+ years, 500+ projects."
 name: "Color Consultation"
-heading: "Color Consultation"
+heading: "Color Consultation in Punta Gorda & Port Charlotte"
 summary: "A whole-home color palette that flows from room to room, ties your finishes together, and actually holds up to Florida light."
 order: 3
 ---
@@ -12,7 +12,7 @@ order: 3
       <div>
       <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Color Consultation</p>
       <p class="eyebrow">Service</p>
-      <h1>Color Consultation</h1>
+      <h1>Color Consultation in Punta Gorda &amp; Port Charlotte</h1>
       <p class="lede">A whole-home color palette that flows from room to room, ties your finishes together, and actually holds up to Florida light.</p>
       <div class="cta-pair">
         <a class="btn btn-primary" href="tel:+19414564136">

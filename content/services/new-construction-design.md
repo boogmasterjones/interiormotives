@@ -1,8 +1,8 @@
 ---
-title: "New Construction Design in Southwest Florida | Interior Motives"
-description: "Interior design for new-construction homes in Southwest Florida. Layouts, finishes, and furnishings planned alongside your builder. 20+ years, 500+ projects."
+title: "New Construction Interior Design in Southwest Florida"
+description: "Interior design for new-construction homes in Punta Gorda, North Port and SWFL: layouts, finishes and furnishings planned alongside your builder. 20+ years."
 name: "New Construction Design"
-heading: "New Construction Design"
+heading: "New Construction Interior Design in Southwest Florida"
 summary: "Interior design for homes that haven't been built yet. We work alongside your builder on layouts, finishes, lighting, and furnishings so the design decisions are made early — before they become…"
 order: 5
 ---
@@ -12,7 +12,7 @@ order: 5
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › New Construction Design</p>
         <p class="eyebrow">Service</p>
-        <h1>New Construction Design</h1>
+        <h1>New Construction Interior Design in Southwest Florida</h1>
         <p class="lede">Interior design for homes that haven't been built yet. We work alongside your builder on layouts, finishes, lighting, and furnishings so the design decisions are made early — before they become change orders.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact">Request a Consultation</a>
@@ -34,14 +34,14 @@ order: 5
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"></path></svg><span>Whole-home finish palette — flooring, cabinetry, countertops, tile, paint, and hardware</span></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"></path></svg><span>Lighting and electrical placement coordinated with your furniture plan</span></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"></path></svg><span>Feature walls, ceiling details, and built-ins designed with your builder's trades</span></li>
-          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"></path></svg><span>Furnishings, window treatments, and decor sourced and installed for move-in day</span></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"></path></svg><span>Furnishings and decor ordered, received, delivered and placed for move-in day, with window treatments coordinated alongside</span></li>
         </ul>
         <h2 style="margin-top:3rem;">How It Works</h2>
         <ol class="process-steps" style="margin-top:1.5rem;">
           <li><div><h3>Consultation</h3><p>We talk through your plans, lot, goals, and budget for the new home.</p></div></li>
           <li><div><h3>Design Plan</h3><p>We design the interiors — layouts, finishes, and lighting — for your review.</p></div></li>
           <li><div><h3>Coordinate</h3><p>We hand your builder a clear selection package and stay available through construction.</p></div></li>
-          <li><div><h3>Furnish &amp; Install</h3><p>Furnishings, drapery, and decor arrive and get installed as the home is finished.</p></div></li>
+          <li><div><h3>Furnish &amp; Place</h3><p>Furnishings and decor are ordered, received, delivered and placed as the home is finished.</p></div></li>
         </ol>
       </div>
       <aside class="sidebar-card">

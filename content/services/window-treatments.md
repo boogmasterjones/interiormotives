@@ -1,8 +1,8 @@
 ---
-title: "Custom Window Treatments & Drapery in SWFL | Interior Motives"
-description: "Custom drapery, shades, and window treatments for Southwest Florida homes — sun control, privacy, and style for big Florida windows. Free consultation."
+title: "Custom Drapery & Window Treatment Design in Punta Gorda, FL"
+description: "Custom drapery, shades and window treatment design for Punta Gorda and SWFL homes: sun control, privacy and style for big Florida windows."
 name: "Custom Window Treatments & Drapery"
-heading: "Custom Window Treatments & Drapery"
+heading: "Custom Window Treatments & Drapery in Punta Gorda"
 summary: "Drapery, shades, and layered treatments designed for big Florida windows — managing glare and heat while framing the view instead of hiding it."
 order: 9
 faqs:
@@ -17,7 +17,7 @@ faqs:
       <div>
         <p class="breadcrumbs"><a href="/">Home</a> › <a href="/services">Services</a> › Window Treatments</p>
         <p class="eyebrow">Design Details</p>
-        <h1>Custom Window Treatments &amp; Drapery</h1>
+        <h1>Custom Window Treatments &amp; Drapery in Punta Gorda</h1>
         <p class="lede">Drapery, shades, and layered treatments designed for big Florida windows — managing glare and heat while framing the view instead of hiding it.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact#consultation">Request a Consultation</a>

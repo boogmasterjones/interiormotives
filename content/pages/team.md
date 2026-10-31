@@ -1,6 +1,6 @@
 ---
-title: "Meet the Team | Interior Motives Design, Charlotte Harbor FL"
-description: "Meet Holly, Lori, and Margaret — the owner-led design team behind Interior Motives Design in Charlotte Harbor, serving Southwest Florida homeowners."
+title: "Meet Holly & Lori, Interior Designers in Punta Gorda, FL"
+description: "Meet Holly, Lori and Margaret, the owner-led team behind Interior Motives Design, interior designers in Charlotte Harbor, Punta Gorda, with 20+ years in SWFL."
 heading: "Meet the Interior Motives Design Team"
 subheading: "A small, owner-led studio in Charlotte Harbor: Holly and Lori, two designers who've each run their own firms, and Margaret, a design coordinator who came to interiors by way of residential drafting."
 path: "/team"
