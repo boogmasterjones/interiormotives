@@ -49,7 +49,7 @@
     var groups = [], seen = [];
     Array.prototype.forEach.call(form.querySelectorAll(FIELD), function (f) {
       if (isHidden(f, form)) return;
-      var wrap = f.closest('.form-group, .field, .qf-group, label');
+      var wrap = f.closest('.form-group, .field, .qf-group, .sms-row, label');
       if (!wrap || wrap === form || !form.contains(wrap)) wrap = f;
       if (seen.indexOf(wrap) < 0) { seen.push(wrap); groups.push([wrap]); }
     });
