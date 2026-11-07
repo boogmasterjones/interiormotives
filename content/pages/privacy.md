@@ -44,7 +44,7 @@ You can ask us to correct or delete the details we hold about you, and you can o
 
 ## Contact us
 
-Interior Motives Design, 4288 Pinnacle St, Punta Gorda, FL 33980, (941) 456-4136, Info@InteriorMotives1.com.
+Interior Motives Design, 4288 Pinnacle St, Punta Gorda, FL 33980, (941) 477-1313, Info@InteriorMotives1.com.
 
     </div>
   </section>

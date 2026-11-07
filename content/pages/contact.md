@@ -1,6 +1,6 @@
 ---
 title: "Contact Interior Motives Design, Punta Gorda Interior Designers"
-description: "Book a free initial consultation ($250 value) with Interior Motives Design, interior designers in Charlotte Harbor, Punta Gorda. Call (941) 456-4136."
+description: "Book a free initial consultation ($250 value) with Interior Motives Design, interior designers in Charlotte Harbor, Punta Gorda. Call (941) 477-1313."
 heading: "Contact Our Punta Gorda Interior Design Studio"
 subheading: "Send the form, call, or email — the initial consultation is complimentary, a $250 value. We meet by appointment at your home or at the studio in Charlotte Harbor."
 path: "/contact"
@@ -122,7 +122,7 @@ updatedAt: 2026-10-30
           <ul class="contact-list">
             <li>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-              <span><a href="tel:+19414564136">(941) 456-4136</a><small>Lori · by appointment</small></span>
+              <span><a href="tel:+19414771313">(941) 477-1313</a><small>Lori · by appointment</small></span>
             </li>
             <li>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
@@ -166,7 +166,7 @@ updatedAt: 2026-10-30
     <div class="container">
       <div class="prose" style="max-width:780px;margin-inline:auto;">
         <h2>What Happens When You Get in Touch</h2>
-        <p>Send the form or call (941) 456-4136 and we will talk through your project and set up your initial consultation. It is free, a $250 value, and it takes place in your home, where we can see the light, the layout and how you live. From there we put together layouts, palettes and selections, and show you real samples laid out in our studio in Charlotte Harbor.</p>
+        <p>Send the form or call (941) 477-1313 and we will talk through your project and set up your initial consultation. It is free, a $250 value, and it takes place in your home, where we can see the light, the layout and how you live. From there we put together layouts, palettes and selections, and show you real samples laid out in our studio in Charlotte Harbor.</p>
         <p>We work with homeowners in <a href="/locations/punta-gorda">Punta Gorda</a>, <a href="/locations/port-charlotte">Port Charlotte</a>, Charlotte Harbor, <a href="/locations/north-port">North Port</a> and across Charlotte, Sarasota and Lee Counties. Want to see the work first? Browse the <a href="/portfolio">portfolio</a> or <a href="/team">meet Holly, Lori and Margaret</a>.</p>
         <h2>Frequently Asked Questions</h2>
         <div class="faq">
@@ -198,9 +198,9 @@ updatedAt: 2026-10-30
         <p class="lede">Call the studio directly — we're happy to answer questions before you book anything.</p>
       </div>
       <div class="cta-pair">
-        <a class="btn btn-brass btn-lg" href="tel:+19414564136">
+        <a class="btn btn-brass btn-lg" href="tel:+19414771313">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-          Call (941) 456-4136 Instead
+          Call (941) 477-1313 Instead
         </a>
       </div>
     </div>
