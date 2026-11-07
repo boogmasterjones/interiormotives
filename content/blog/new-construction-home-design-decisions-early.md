@@ -80,4 +80,4 @@ A designer's role is to help you make confident, coordinated choices within that
 
 We work with homeowners across Sarasota, Charlotte and Lee Counties, including Punta Gorda, Port Charlotte, North Port, Venice, Sarasota, Englewood and Cape Coral.
 
-If you are building a new home, or about to start, the best time to bring in a designer is before key decisions are locked in. Call Interior Motives Design at (941) 456-4136 to schedule your free initial consultation and talk through your plans.
+If you are building a new home, or about to start, the best time to bring in a designer is before key decisions are locked in. Call Interior Motives Design at (941) 477-1313 to schedule your free initial consultation and talk through your plans.

@@ -31,7 +31,7 @@ By providing your mobile number and checking the consent box on our form, or by 
 - Message frequency varies.
 - Message and data rates may apply.
 - Reply **STOP** to opt out at any time. You will receive one message confirming you have opted out, and nothing more.
-- Reply **HELP** for help, or call (941) 456-4136.
+- Reply **HELP** for help, or call (941) 477-1313.
 - Consent to text messages is not a condition of purchase.
 - Carriers are not liable for delayed or undelivered messages.
 
@@ -43,7 +43,7 @@ The content on this site is ours and is for your personal, non-commercial use. W
 
 ## Contact us
 
-Interior Motives Design, 4288 Pinnacle St, Punta Gorda, FL 33980, (941) 456-4136, Info@InteriorMotives1.com.
+Interior Motives Design, 4288 Pinnacle St, Punta Gorda, FL 33980, (941) 477-1313, Info@InteriorMotives1.com.
 
     </div>
   </section>

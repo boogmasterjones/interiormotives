@@ -16,7 +16,7 @@ updatedAt: 2026-10-30
         <p class="lede">Interior Motives Design is an owner-led studio in Charlotte Harbor helping Southwest Florida homeowners turn houses into homes they love — from a single-room refresh to a whole-home renovation.</p>
         <div class="cta-pair">
           <a class="btn btn-primary" href="/contact">Request a Consultation</a>
-          <a class="btn" href="tel:+19414564136">Call (941) 456-4136</a>
+          <a class="btn" href="tel:+19414771313">Call (941) 477-1313</a>
         </div>
       </div>
       <div class="img-frame">
@@ -41,7 +41,7 @@ updatedAt: 2026-10-30
           <h3>Start the Conversation</h3>
           <p style="color:var(--color-ink-70); margin-block:0.9rem 1.4rem; font-size:0.95rem;">Call us or send the form — the initial consultation is complimentary, a $250 value.</p>
           <div class="cta-pair" style="flex-direction:column; align-items:stretch;">
-            <a class="btn btn-primary" href="tel:+19414564136">Call (941) 456-4136</a>
+            <a class="btn btn-primary" href="tel:+19414771313">Call (941) 477-1313</a>
             <a class="btn" href="/contact">Request a Consultation</a>
           </div>
         </div>
@@ -144,9 +144,9 @@ updatedAt: 2026-10-30
         <p class="lede">Call the studio, or send a quick note and we'll get back to you — either way, the first consultation is free.</p>
       </div>
       <div class="cta-pair">
-        <a class="btn btn-brass btn-lg" href="tel:+19414564136">
+        <a class="btn btn-brass btn-lg" href="tel:+19414771313">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-          Call (941) 456-4136
+          Call (941) 477-1313
         </a>
         <a class="btn btn-ghost btn-lg" href="/contact#consultation">Request a Consultation</a>
       </div>

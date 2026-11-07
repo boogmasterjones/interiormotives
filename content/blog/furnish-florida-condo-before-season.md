@@ -78,4 +78,4 @@ You can see the full range on the [interior design](/services/interior-design) s
 
 ## Ready for your next season?
 
-The studio offers a free initial consultation (stated as a $250 value). Call (941) 456-4136 or reach out through the [contact](/contact) page to start planning a home that's ready when you are.
+The studio offers a free initial consultation (stated as a $250 value). Call (941) 477-1313 or reach out through the [contact](/contact) page to start planning a home that's ready when you are.

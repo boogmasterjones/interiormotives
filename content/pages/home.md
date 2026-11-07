@@ -16,9 +16,9 @@ updatedAt: 2026-11-07
         <p class="lede">An owner-led design studio in Charlotte Harbor, creating homes across Punta Gorda, Port Charlotte, Sarasota, and the Gulf Coast — from a single room to the whole house.</p>
         <div class="cta-pair">
           <a class="btn btn-brass btn-lg" href="#consultation">Request a Free Consultation</a>
-          <a class="btn btn-ghost btn-lg" href="tel:+19414564136">
+          <a class="btn btn-ghost btn-lg" href="tel:+19414771313">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-            Call (941) 456-4136
+            Call (941) 477-1313
           </a>
         </div>
         <ul class="hero-trust">
@@ -184,7 +184,7 @@ updatedAt: 2026-11-07
           <ul class="contact-list">
             <li>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-              <span><a href="tel:+19414564136">(941) 456-4136</a><small>Lori · by appointment</small></span>
+              <span><a href="tel:+19414771313">(941) 477-1313</a><small>Lori · by appointment</small></span>
             </li>
             <li>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
@@ -205,7 +205,7 @@ updatedAt: 2026-11-07
         </div>
       </aside>
       <div class="section-cta">
-        <a class="btn btn-primary" href="tel:+19414564136">Call (941) 456-4136</a>
+        <a class="btn btn-primary" href="tel:+19414771313">Call (941) 477-1313</a>
         <a class="btn" href="/team">Meet the Team</a>
       </div>
     </div>
@@ -254,7 +254,7 @@ updatedAt: 2026-11-07
         <p>Every project begins with an in-home consultation, and the initial consultation is free, a $250 value. From there we plan the layout, the color and the finishes, and present your selections as real samples laid out in our studio, not just mood boards. We have access to to-the-trade fabric and furniture lines sold only through designers, and we handle furniture ordering, receiving, delivery and placement. Start with <a href="/services/interior-design">full interior design</a>, <a href="/services/kitchen-bath-design">kitchen and bath design</a>, <a href="/services/new-construction-design">new construction design</a> or a <a href="/services/color-consultation">color consultation</a>, or see finished rooms in the <a href="/portfolio">portfolio</a>.</p>
       </div>
       <div class="section-cta">
-        <a class="btn btn-primary" href="tel:+19414564136">Call (941) 456-4136</a>
+        <a class="btn btn-primary" href="tel:+19414771313">Call (941) 477-1313</a>
         <a class="btn" href="#consultation">Book a Design Consultation</a>
       </div>
     </div>
