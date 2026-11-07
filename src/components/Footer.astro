@@ -4,7 +4,7 @@ import { getLocations } from "../lib/content";
 import { phoneHref, site } from "../lib/site";
 // Footer ported from the original site. NAP comes from data/site.json (identical to the Google listing); the service-area
 // list is generated from content/locations in the same order as the rest of the site (SITE_RULES 5.13).
-const { name, phone, email, address } = site.business;
+const { name, phone, email, address, googleMapsUrl } = site.business;
 const locations = await getLocations();
 ---
 <footer class="site-footer">
@@ -59,7 +59,7 @@ const locations = await getLocations();
     <Socials />
     <div class="footer-bottom">
       <p>© 2026 {name}. All rights reserved. <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></p>
-      <p>Serving Sarasota, Charlotte &amp; Lee Counties, FL</p>
+      <p>{googleMapsUrl ? <a href={googleMapsUrl} target="_blank" rel="noopener">5-star rated on Google</a> : '5-star rated on Google'} · Serving Sarasota, Charlotte &amp; Lee Counties, FL</p>
     </div>
   </div>
 </footer>

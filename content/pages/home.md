@@ -5,7 +5,7 @@ heading: "Punta Gorda Interior Design. Inspired by You."
 subheading: "An owner-led design studio in Charlotte Harbor, creating homes across Punta Gorda, Port Charlotte, Sarasota, and the Gulf Coast — from a single room to the whole house."
 path: "/"
 bodyClass: "home"
-updatedAt: 2026-10-30
+updatedAt: 2026-11-07
 ---
 
 <section class="hero hero-logo">
@@ -23,6 +23,7 @@ updatedAt: 2026-10-30
         </div>
         <ul class="hero-trust">
           <li>Free Initial Consultation</li>
+          <li>5-Star Rated on Google</li>
           <li>500+ Projects</li>
           <li>Owner-Led Studio</li>
           <li>Design &amp; Renovation</li>
@@ -214,7 +215,7 @@ updatedAt: 2026-10-30
       <div class="section-head center">
         <p class="eyebrow">Google Reviews</p>
         <h2>What Our Clients Say</h2>
-        <p class="lede" style="margin-inline:auto;">Word for word, from our Google listing.</p>
+        <p class="lede" style="margin-inline:auto;">5-star rated on Google. Word for word, from our Google listing.</p>
       </div>
       <div class="grid grid-2 review-grid" tabindex="0" role="region" aria-label="Customer reviews">
         <figure class="review-card">
